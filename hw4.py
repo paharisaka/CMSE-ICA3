@@ -1,4 +1,5 @@
 import streamlit as st
+pip install seaborn
 import seaborn as sns
 import matplotlib.pyplot as plt
 import pandas as pd 
