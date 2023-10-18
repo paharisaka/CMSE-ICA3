@@ -1,252 +1,242 @@
-﻿CrashID,BikeAgeGrp,BikeDir,BikeRace,CrashAlcoh,WeekdayOrWeekend,CrashHour,CrashLoc,CrashMonth,Developmen,LightCond,Locality,RdSurface,RuralUrban,SpeedLimit
-101935110,40-49,With Traffic,White,Yes,Weekday,8,Non-Intersection,January,Residential,Daylight,Urban (>70% Developed),Smooth Asphalt,Urban,40 - 45  MPH
-101941069,40-49,With Traffic,White,No,Weekday,12,Non-Intersection,January,"Farms, Woods, Pastures",Daylight,Rural (<30% Developed),Smooth Asphalt,Rural,60 - 75 MPH
-101986152,60-69,With Traffic,White,No,Weekend,13,Non-Intersection,March,"Farms, Woods, Pastures",Daylight,Rural (<30% Developed),Smooth Asphalt,Rural,50 - 55  MPH
-101990368,16-19,With Traffic,White,No,Weekday,0,Non-Intersection,March,Commercial,Dark - Roadway Not Lighted,Urban (>70% Developed),Smooth Asphalt,Urban,50 - 55  MPH
-101990781,16-19,With Traffic,White,No,Weekday,16,Non-Intersection,March,Residential,Daylight,Rural (<30% Developed),Smooth Asphalt,Rural,30 - 35  MPH
-102009007,40-49,With Traffic,White,No,Weekday,5,Non-Intersection,April,"Farms, Woods, Pastures",Dark - Roadway Not Lighted,Rural (<30% Developed),Smooth Asphalt,Rural,50 - 55  MPH
-102069501,45245,With Traffic,Black,No,Weekday,19,Intersection,June,Residential,Daylight,Mixed (30% To 70% Developed),Smooth Asphalt,Rural,40 - 45  MPH
-102075128,40-49,With Traffic,White,No,Weekday,16,Intersection,June,Residential,Daylight,Urban (>70% Developed),Coarse Asphalt,Urban,30 - 35  MPH
-102082694,16-19,Not Applicable,White,No,Weekday,3,Non-Intersection,July,"Farms, Woods, Pastures",Dark - Roadway Not Lighted,Rural (<30% Developed),Coarse Asphalt,Rural,50 - 55  MPH
-102096343,20-24,With Traffic,Black,No,Weekday,17,Non-Intersection,July,"Farms, Woods, Pastures",Daylight,Rural (<30% Developed),Smooth Asphalt,Rural,50 - 55  MPH
-102126908,20-24,With Traffic,Black,No,Weekend,22,Non-Intersection,September,Residential,Daylight,Mixed (30% To 70% Developed),Coarse Asphalt,Rural,40 - 45  MPH
-102131922,20-24,With Traffic,White,No,Weekday,6,Non-Intersection,September,Residential,Dark - Roadway Not Lighted,Rural (<30% Developed),Coarse Asphalt,Rural,40 - 45  MPH
-102146629,30-39,Not Applicable,Hispanic,No,Weekend,12,Non-Intersection,September,Residential,Daylight,Urban (>70% Developed),Smooth Asphalt,Urban,40 - 45  MPH
-102184383,50-59,With Traffic,White,No,Weekday,15,Intersection,February,Commercial,Daylight,Urban (>70% Developed),Smooth Asphalt,Urban,30 - 35  MPH
-102249716,40-49,With Traffic,White,No,Weekend,15,Non-Intersection,January,Residential,Daylight,Rural (<30% Developed),Smooth Asphalt,Rural,30 - 35  MPH
-102284596,40-49,With Traffic,Black,No,Weekday,13,Intersection,January,Commercial,Daylight,Urban (>70% Developed),Smooth Asphalt,Urban,40 - 45  MPH
-102291542,25-29,With Traffic,White,No,Weekend,12,Intersection,March,Commercial,Daylight,Urban (>70% Developed),Smooth Asphalt,Urban,40 - 45  MPH
-102303022,45245,Unknown,Black,No,Weekday,15,Intersection,May,Commercial,Daylight,Urban (>70% Developed),Smooth Asphalt,Urban,30 - 35  MPH
-102310991,60-69,With Traffic,White,Yes,Weekday,10,Non-Intersection,April,Residential,Daylight,Urban (>70% Developed),Smooth Asphalt,Urban,20 - 25  MPH
-102338409,50-59,With Traffic,White,No,Weekday,8,Non-Intersection,June,"Farms, Woods, Pastures",Daylight,Rural (<30% Developed),Smooth Asphalt,Rural,50 - 55  MPH
-102354511,16-19,With Traffic,White,Yes,Weekend,23,Non-Intersection,June,Commercial,Dark - Roadway Not Lighted,Urban (>70% Developed),Coarse Asphalt,Urban,50 - 55  MPH
-102365115,70+,With Traffic,Black,No,Weekday,17,Intersection,July,Residential,Daylight,Mixed (30% To 70% Developed),Coarse Asphalt,Rural,50 - 55  MPH
-102370508,40-49,With Traffic,Hispanic,Yes,Weekday,23,Intersection,August,Commercial,Dark - Lighted Roadway,Urban (>70% Developed),Coarse Asphalt,Urban,30 - 35  MPH
-102394172,30-39,With Traffic,White,No,Weekday,12,Non-Intersection,August,Residential,Daylight,Mixed (30% To 70% Developed),Coarse Asphalt,Rural,40 - 45  MPH
-102399916,30-39,With Traffic,White,No,Weekend,6,Non-Intersection,August,Commercial,Dark - Roadway Not Lighted,Urban (>70% Developed),Coarse Asphalt,Urban,50 - 55  MPH
-102403600,40-49,With Traffic,White,No,Weekday,18,Non-Intersection,September,Residential,Daylight,Rural (<30% Developed),Coarse Asphalt,Rural,50 - 55  MPH
-102411371,50-59,Facing Traffic,White,No,Weekend,6,Non-Intersection,September,"Farms, Woods, Pastures",Dark - Roadway Not Lighted,Rural (<30% Developed),Smooth Asphalt,Rural,50 - 55  MPH
-102415556,30-39,With Traffic,Native American,No,Weekday,19,Non-Intersection,September,Residential,Dark - Roadway Not Lighted,Mixed (30% To 70% Developed),Smooth Asphalt,Rural,40 - 45  MPH
-102419768,40-49,Facing Traffic,White,No,Weekday,18,Non-Intersection,October,Commercial,Daylight,Mixed (30% To 70% Developed),Coarse Asphalt,Urban,50 - 55  MPH
-102430828,60-69,With Traffic,White,No,Weekday,9,Non-Intersection,October,Commercial,Daylight,Urban (>70% Developed),Smooth Asphalt,Urban,40 - 45  MPH
-102436599,40-49,Facing Traffic,White,No,Weekday,20,Non-Intersection,September,Commercial,Dark - Lighted Roadway,Urban (>70% Developed),Concrete,Urban,40 - 45  MPH
-102449470,16-19,Not Applicable,White,No,Weekday,18,Non-Intersection,October,Residential,Dusk,Rural (<30% Developed),Smooth Asphalt,Rural,50 - 55  MPH
-102461251,30-39,With Traffic,Black,No,Weekday,6,Non-Intersection,November,"Farms, Woods, Pastures",Dark - Roadway Not Lighted,Mixed (30% To 70% Developed),Smooth Asphalt,Rural,60 - 75 MPH
-102461964,30-39,With Traffic,White,Yes,Weekday,17,Non-Intersection,November,Residential,Dark - Roadway Not Lighted,Mixed (30% To 70% Developed),Smooth Asphalt,Rural,40 - 45  MPH
-102480885,25-29,With Traffic,White,No,Weekday,17,Non-Intersection,December,Commercial,Dark - Roadway Not Lighted,Mixed (30% To 70% Developed),Smooth Asphalt,Rural,50 - 55  MPH
-102481209,30-39,With Traffic,White,Yes,Weekend,22,Non-Intersection,December,"Farms, Woods, Pastures",Dark - Roadway Not Lighted,Rural (<30% Developed),Coarse Asphalt,Rural,40 - 45  MPH
-102486524,40-49,With Traffic,White,No,Weekday,2,Non-Intersection,December,Commercial,Dark - Lighted Roadway,Mixed (30% To 70% Developed),Coarse Asphalt,Urban,40 - 45  MPH
-102526145,50-59,Not Applicable,Black,No,Weekday,21,Non-Intersection,November,Commercial,Dark - Roadway Not Lighted,Urban (>70% Developed),Coarse Asphalt,Urban,40 - 45  MPH
-102536745,50-59,With Traffic,White,No,Weekend,11,Non-Intersection,March,"Farms, Woods, Pastures",Daylight,Rural (<30% Developed),Smooth Asphalt,Rural,50 - 55  MPH
-102570573,40-49,With Traffic,White,No,Weekday,13,Non-Intersection,August,Commercial,Daylight,Urban (>70% Developed),Smooth Asphalt,Urban,40 - 45  MPH
-102570578,40-49,With Traffic,White,No,Weekday,14,Non-Intersection,December,Commercial,Daylight,Urban (>70% Developed),Smooth Asphalt,Urban,40 - 45  MPH
-102578311,50-59,Not Applicable,Black,Yes,Weekday,21,Non-Intersection,April,Commercial,Dark - Roadway Not Lighted,Urban (>70% Developed),Smooth Asphalt,Urban,40 - 45  MPH
-102578394,40-49,With Traffic,Black,No,Weekday,1,Non-Intersection,April,Commercial,Dark - Lighted Roadway,Urban (>70% Developed),Smooth Asphalt,Urban,50 - 55  MPH
-102582119,70+,Not Applicable,White,No,Weekend,13,Non-Intersection,March,Commercial,Daylight,Urban (>70% Developed),Coarse Asphalt,Rural,30 - 35  MPH
-102584514,40-49,With Traffic,White,Yes,Weekend,22,Non-Intersection,April,Residential,Dark - Roadway Not Lighted,Urban (>70% Developed),Smooth Asphalt,Rural,50 - 55  MPH
-102603918,50-59,Facing Traffic,Black,No,Weekday,12,Intersection,March,Commercial,Daylight,Urban (>70% Developed),Smooth Asphalt,Urban,30 - 35  MPH
-102633684,20-24,Unknown,Black,Yes,Weekday,21,Intersection-Related,July,Commercial,Dark - Lighted Roadway,Urban (>70% Developed),Coarse Asphalt,Urban,50 - 55  MPH
-102643258,45245,With Traffic,White,No,Weekend,7,Non-Intersection,July,Commercial,Dark - Roadway Not Lighted,Urban (>70% Developed),Smooth Asphalt,Urban,60 - 75 MPH
-102650807,50-59,With Traffic,White,No,Weekend,11,Intersection,July,Residential,Daylight,Urban (>70% Developed),Grooved Concrete,Urban,40 - 45  MPH
-102663100,40-49,With Traffic,Black,No,Weekday,12,Intersection,July,Residential,Daylight,Urban (>70% Developed),Smooth Asphalt,Urban,20 - 25  MPH
-102719268,16-19,With Traffic,White,Yes,Weekend,18,Non-Intersection,November,"Farms, Woods, Pastures",Dark - Roadway Not Lighted,Rural (<30% Developed),Smooth Asphalt,Rural,50 - 55  MPH
-102731629,50-59,With Traffic,White,No,Weekend,17,Non-Intersection,October,"Farms, Woods, Pastures",Daylight,Rural (<30% Developed),Smooth Asphalt,Rural,50 - 55  MPH
-102788552,60-69,With Traffic,Black,No,Weekday,18,Non-Intersection,January,Commercial,Dark - Lighted Roadway,Urban (>70% Developed),Smooth Asphalt,Rural,40 - 45  MPH
-102817033,50-59,With Traffic,Black,No,Weekend,17,Non-Intersection,February,Residential,Daylight,Urban (>70% Developed),Coarse Asphalt,Rural,30 - 35  MPH
-102818371,60-69,Unknown,Black,No,Weekday,14,Non-Intersection,February,Commercial,Daylight,Urban (>70% Developed),Coarse Asphalt,Urban,50 - 55  MPH
-102820656,30-39,With Traffic,White,No,Weekday,19,Non-Intersection,March,Commercial,Dark - Roadway Not Lighted,Urban (>70% Developed),Smooth Asphalt,Urban,40 - 45  MPH
-102824590,16-19,With Traffic,White,No,Weekday,18,Intersection,March,Residential,Daylight,Urban (>70% Developed),Coarse Asphalt,Urban,30 - 35  MPH
-102826341,30-39,With Traffic,White,No,Weekday,7,Non-Intersection,March,Commercial,Daylight,Urban (>70% Developed),Coarse Asphalt,Urban,50 - 55  MPH
-102847504,50-59,With Traffic,Black,Yes,Weekday,23,Intersection,April,"Farms, Woods, Pastures",Dark - Roadway Not Lighted,Rural (<30% Developed),Smooth Asphalt,Rural,50 - 55  MPH
-102856806,50-59,With Traffic,Black,No,Weekend,18,Non-Intersection,February,"Farms, Woods, Pastures",Dark - Roadway Not Lighted,Rural (<30% Developed),Smooth Asphalt,Rural,50 - 55  MPH
-102895448,50-59,With Traffic,Black,Yes,Weekend,23,Non-Intersection,May,"Farms, Woods, Pastures",Dark - Roadway Not Lighted,Rural (<30% Developed),Smooth Asphalt,Rural,50 - 55  MPH
-102909252,16-19,With Traffic,Black,No,Weekday,13,Non-Intersection,June,"Farms, Woods, Pastures",Daylight,Mixed (30% To 70% Developed),Smooth Asphalt,Rural,50 - 55  MPH
-102926057,50-59,Facing Traffic,White,No,Weekend,18,Non-Intersection,July,"Farms, Woods, Pastures",Daylight,Rural (<30% Developed),Smooth Asphalt,Rural,50 - 55  MPH
-102934347,40-49,Facing Traffic,Black,No,Weekday,21,Non-Intersection,August,Residential,Dark - Roadway Not Lighted,Rural (<30% Developed),Smooth Asphalt,Rural,40 - 45  MPH
-102946956,25-29,With Traffic,White,Yes,Weekday,3,Intersection,August,Residential,Dark - Lighted Roadway,Urban (>70% Developed),Smooth Asphalt,Urban,30 - 35  MPH
-102955225,40-49,Facing Traffic,Native American,Yes,Weekday,20,Non-Intersection,September,Residential,Dark - Roadway Not Lighted,Rural (<30% Developed),Coarse Asphalt,Rural,50 - 55  MPH
-102957344,50-59,With Traffic,Black,Yes,Weekday,20,Non-Intersection,September,"Farms, Woods, Pastures",Dark - Roadway Not Lighted,Rural (<30% Developed),Coarse Asphalt,Rural,50 - 55  MPH
-103000079,40-49,With Traffic,White,No,Weekday,12,Non-Intersection,October,Commercial,Daylight,Urban (>70% Developed),Coarse Asphalt,Urban,50 - 55  MPH
-103001859,50-59,With Traffic,White,No,Weekday,17,Non-Intersection,October,"Farms, Woods, Pastures",Daylight,Rural (<30% Developed),Coarse Asphalt,Rural,50 - 55  MPH
-103005401,60-69,With Traffic,White,No,Weekday,9,Non-Intersection,November,"Farms, Woods, Pastures",Daylight,Mixed (30% To 70% Developed),Smooth Asphalt,Rural,50 - 55  MPH
-103018903,50-59,With Traffic,Black,No,Weekday,13,Non-Intersection,November,"Farms, Woods, Pastures",Daylight,Rural (<30% Developed),Coarse Asphalt,Rural,40 - 45  MPH
-103044154,30-39,With Traffic,White,No,Weekday,18,Non-Intersection,November,"Farms, Woods, Pastures",Dark - Roadway Not Lighted,Urban (>70% Developed),Smooth Asphalt,Urban,30 - 35  MPH
-103085620,40-49,With Traffic,White,Yes,Weekday,23,Non-Intersection,January,Commercial,Dark - Lighted Roadway,Urban (>70% Developed),Smooth Asphalt,Urban,40 - 45  MPH
-103088222,25-29,Not Applicable,Black,Yes,Weekend,18,Non-Intersection,January,"Farms, Woods, Pastures",Dark - Roadway Not Lighted,Rural (<30% Developed),Smooth Asphalt,Rural,50 - 55  MPH
-103093053,40-49,With Traffic,Black,No,Weekday,12,Intersection,January,Commercial,Daylight,Mixed (30% To 70% Developed),Smooth Asphalt,Urban,40 - 45  MPH
-103104222,40-49,With Traffic,White,No,Weekday,18,Non-Intersection,March,"Farms, Woods, Pastures",Dark - Roadway Not Lighted,Rural (<30% Developed),Smooth Asphalt,Rural,50 - 55  MPH
-103122567,20-24,Facing Traffic,Hispanic,No,Weekday,20,Non-Intersection,March,Residential,Dark - Roadway Not Lighted,Urban (>70% Developed),Coarse Asphalt,Rural,40 - 45  MPH
-103131534,40-49,With Traffic,White,Yes,Weekend,9,Non-Intersection,April,Residential,Daylight,Mixed (30% To 70% Developed),Coarse Asphalt,Rural,50 - 55  MPH
-103170340,50-59,Not Applicable,Black,Yes,Weekday,23,Non-Intersection,June,Commercial,Dark - Roadway Not Lighted,Mixed (30% To 70% Developed),Smooth Asphalt,Urban,50 - 55  MPH
-103189780,60-69,With Traffic,White,No,Weekday,14,Non-Intersection,June,"Farms, Woods, Pastures",Daylight,Rural (<30% Developed),Coarse Asphalt,Rural,50 - 55  MPH
-103194678,16-19,Not Applicable,White,No,Weekday,12,Non-Intersection,June,Commercial,Daylight,Urban (>70% Developed),Smooth Asphalt,Urban,40 - 45  MPH
-103210405,70+,With Traffic,White,No,Weekend,10,Non-Intersection,July,Commercial,Daylight,Urban (>70% Developed),Smooth Asphalt,Urban,20 - 25  MPH
-103212239,50-59,With Traffic,White,No,Weekday,16,Non-Intersection,July,Residential,Daylight,Urban (>70% Developed),Smooth Asphalt,Rural,50 - 55  MPH
-103225206,40-49,With Traffic,Black,Yes,Weekend,20,Intersection-Related,July,Residential,Dark - Lighted Roadway,Urban (>70% Developed),Smooth Asphalt,Urban,30 - 35  MPH
-103249977,60-69,Not Applicable,White,Yes,Weekday,17,Non-Intersection,September,Residential,Daylight,Rural (<30% Developed),Coarse Asphalt,Rural,40 - 45  MPH
-103252586,20-24,With Traffic,Black,Yes,Weekday,3,Non-Intersection,September,"Farms, Woods, Pastures",Dark - Roadway Not Lighted,Rural (<30% Developed),Coarse Asphalt,Rural,50 - 55  MPH
-103290453,40-49,With Traffic,White,No,Weekday,19,Non-Intersection,November,Residential,Dark - Roadway Not Lighted,Rural (<30% Developed),Smooth Asphalt,Rural,50 - 55  MPH
-103331076,16-19,With Traffic,White,No,Weekday,14,Non-Intersection,December,"Farms, Woods, Pastures",Daylight,Mixed (30% To 70% Developed),Smooth Asphalt,Rural,40 - 45  MPH
-103343415,70+,Not Applicable,Black,No,Weekend,17,Intersection-Related,December,Industrial,Dark - Lighted Roadway,Urban (>70% Developed),Smooth Asphalt,Urban,50 - 55  MPH
-103403468,30-39,With Traffic,White,Yes,Weekday,15,Non-Intersection,March,"Farms, Woods, Pastures",Daylight,Rural (<30% Developed),Smooth Asphalt,Rural,50 - 55  MPH
-103414721,45205,Facing Traffic,Black,No,Weekend,15,Intersection,March,Residential,Daylight,Urban (>70% Developed),Coarse Asphalt,Urban,30 - 35  MPH
-103426647,30-39,With Traffic,White,No,Weekday,19,Non-Intersection,April,Residential,Daylight,Mixed (30% To 70% Developed),Smooth Asphalt,Urban,40 - 45  MPH
-103446703,30-39,Facing Traffic,Black,No,Weekday,8,Non-Intersection,May,Residential,Daylight,Urban (>70% Developed),Coarse Asphalt,Urban,30 - 35  MPH
-103466797,45205,Facing Traffic,Hispanic,No,Weekday,16,Non-Intersection,May,Residential,Dark - Roadway Not Lighted,Rural (<30% Developed),Coarse Asphalt,Rural,50 - 55  MPH
-103468740,50-59,With Traffic,Black,Yes,Weekend,0,Non-Intersection,June,"Farms, Woods, Pastures",Dark - Roadway Not Lighted,Rural (<30% Developed),Coarse Asphalt,Rural,50 - 55  MPH
-103476372,60-69,With Traffic,White,No,Weekend,10,Intersection,June,Residential,Daylight,Mixed (30% To 70% Developed),Coarse Asphalt,Rural,40 - 45  MPH
-103477215,50-59,Not Applicable,White,No,Weekday,22,Non-Intersection,May,Commercial,Dark - Roadway Not Lighted,Urban (>70% Developed),Smooth Asphalt,Urban,50 - 55  MPH
-103492438,40-49,With Traffic,White,No,Weekday,14,Non-Intersection,July,Commercial,Daylight,Urban (>70% Developed),Smooth Asphalt,Urban,50 - 55  MPH
-103494472,40-49,With Traffic,Black,Yes,Weekend,22,Non-Intersection,July,Residential,Dark - Roadway Not Lighted,Rural (<30% Developed),Smooth Asphalt,Rural,40 - 45  MPH
-103502461,70+,With Traffic,White,No,Weekday,8,Non-Intersection,June,"Farms, Woods, Pastures",Daylight,Mixed (30% To 70% Developed),Smooth Asphalt,Rural,50 - 55  MPH
-103520178,40-49,Not Applicable,White,No,Weekday,18,Non-Intersection,August,Commercial,Daylight,Urban (>70% Developed),Smooth Asphalt,Rural,40 - 45  MPH
-103526184,20-24,With Traffic,White,Yes,Weekday,1,Non-Intersection,August,Commercial,Dark - Lighted Roadway,Urban (>70% Developed),Coarse Asphalt,Urban,30 - 35  MPH
-103528980,40-49,With Traffic,Black,Yes,Weekday,3,Non-Intersection,August,Residential,Dark - Roadway Not Lighted,Urban (>70% Developed),Smooth Asphalt,Urban,60 - 75 MPH
-103549439,60-69,With Traffic,Black,No,Weekday,20,Non-Intersection,September,"Farms, Woods, Pastures",Dark - Roadway Not Lighted,Mixed (30% To 70% Developed),Coarse Asphalt,Rural,50 - 55  MPH
-103568662,50-59,Facing Traffic,White,Yes,Weekday,14,Non-Intersection,October,Residential,Daylight,Rural (<30% Developed),Smooth Asphalt,Rural,50 - 55  MPH
-103573656,50-59,With Traffic,Native American,Yes,Weekday,20,Non-Intersection,October,"Farms, Woods, Pastures",Dark - Roadway Not Lighted,Rural (<30% Developed),Coarse Asphalt,Rural,50 - 55  MPH
-103586443,40-49,With Traffic,Black,No,Weekday,17,Non-Intersection,October,"Farms, Woods, Pastures",Daylight,Rural (<30% Developed),Coarse Asphalt,Rural,50 - 55  MPH
-103591838,60-69,With Traffic,Black,Yes,Weekday,19,Non-Intersection,October,"Farms, Woods, Pastures",Dawn,Rural (<30% Developed),Coarse Asphalt,Rural,50 - 55  MPH
-103596394,40-49,With Traffic,Black,Yes,Weekday,20,Non-Intersection,November,"Farms, Woods, Pastures",Dark - Roadway Not Lighted,Rural (<30% Developed),Smooth Asphalt,Rural,50 - 55  MPH
-103615076,40-49,Facing Traffic,White,Yes,Weekday,13,Non-Intersection,November,"Farms, Woods, Pastures",Daylight,Rural (<30% Developed),Smooth Asphalt,Rural,50 - 55  MPH
-103618810,70+,With Traffic,Native American,No,Weekday,17,Non-Intersection,November,Residential,Dark - Roadway Not Lighted,Mixed (30% To 70% Developed),Coarse Asphalt,Rural,50 - 55  MPH
-103621199,30-39,Facing Traffic,White,No,Weekday,18,Intersection,December,Commercial,Dark - Unknown Lighting,Urban (>70% Developed),Coarse Asphalt,Urban,30 - 35  MPH
-103625764,45245,Facing Traffic,Black,No,Weekday,15,Intersection,December,Residential,Daylight,Urban (>70% Developed),Smooth Asphalt,Urban,40 - 45  MPH
-103638510,50-59,With Traffic,White,No,Weekday,16,Non-Intersection,December,Residential,Daylight,Urban (>70% Developed),Smooth Asphalt,Urban,30 - 35  MPH
-103641555,40-49,With Traffic,Black,Yes,Weekday,17,Non-Intersection,December,Commercial,Dusk,Urban (>70% Developed),Smooth Asphalt,Urban,30 - 35  MPH
-103642467,25-29,With Traffic,White,No,Weekend,1,Non-Intersection,December,"Farms, Woods, Pastures",Dark - Roadway Not Lighted,Rural (<30% Developed),Smooth Asphalt,Rural,40 - 45  MPH
-103706877,50-59,With Traffic,Native American,No,Weekend,11,Non-Intersection,March,Commercial,Daylight,Mixed (30% To 70% Developed),Smooth Asphalt,Rural,50 - 55  MPH
-103707447,30-39,With Traffic,White,Yes,Weekend,22,Non-Intersection,March,Residential,Dark - Roadway Not Lighted,Urban (>70% Developed),Smooth Asphalt,Urban,40 - 45  MPH
-103721835,40-49,With Traffic,Black,No,Weekday,20,Non-Intersection,April,"Farms, Woods, Pastures",Dark - Roadway Not Lighted,Rural (<30% Developed),Smooth Asphalt,Rural,40 - 45  MPH
-103725053,45205,Unknown,White,No,Weekday,19,Non-Intersection,April,"Farms, Woods, Pastures",Daylight,Rural (<30% Developed),Smooth Asphalt,Rural,50 - 55  MPH
-103729772,40-49,With Traffic,White,No,Weekday,22,Non-Intersection,April,"Farms, Woods, Pastures",Dark - Roadway Not Lighted,Rural (<30% Developed),Coarse Asphalt,Urban,60 - 75 MPH
-103733403,50-59,With Traffic,Black,No,Weekday,14,Non-Intersection,March,Residential,Daylight,Urban (>70% Developed),Smooth Asphalt,Urban,40 - 45  MPH
-103746005,40-49,With Traffic,Black,No,Weekday,12,Intersection,April,Residential,Daylight,Urban (>70% Developed),Coarse Asphalt,Urban,40 - 45  MPH
-103752709,50-59,With Traffic,White,No,Weekday,18,Intersection,May,Residential,Daylight,Urban (>70% Developed),Smooth Asphalt,Urban,30 - 35  MPH
-103773000,70+,With Traffic,White,No,Weekday,18,Intersection,May,Commercial,Daylight,Rural (<30% Developed),Coarse Asphalt,Rural,40 - 45  MPH
-103787162,Unknown,Unknown,White,No,Weekend,19,Non-Intersection,January,Commercial,Dark - Lighted Roadway,Urban (>70% Developed),Coarse Asphalt,Urban,40 - 45  MPH
-103787648,60-69,With Traffic,White,No,Weekday,19,Non-Intersection,June,Residential,Dusk,Urban (>70% Developed),Smooth Asphalt,Urban,40 - 45  MPH
-103796446,25-29,With Traffic,White,No,Weekday,22,Intersection-Related,June,Commercial,Dark - Lighted Roadway,Urban (>70% Developed),Coarse Asphalt,Urban,40 - 45  MPH
-103796648,30-39,With Traffic,White,No,Weekday,15,Non-Intersection,July,Residential,Dark - Roadway Not Lighted,Urban (>70% Developed),Smooth Asphalt,Urban,30 - 35  MPH
-103838505,25-29,Unknown,Hispanic,No,Weekday,21,Non-Intersection,August,Commercial,Dark - Lighted Roadway,Urban (>70% Developed),Smooth Asphalt,Urban,30 - 35  MPH
-103847550,60-69,With Traffic,White,No,Weekend,9,Intersection-Related,September,"Farms, Woods, Pastures",Daylight,Rural (<30% Developed),Smooth Asphalt,Rural,50 - 55  MPH
-103847559,70+,With Traffic,White,No,Weekday,17,Non-Intersection,September,"Farms, Woods, Pastures",Daylight,Rural (<30% Developed),Smooth Asphalt,Rural,50 - 55  MPH
-103858568,20-24,Facing Traffic,White,No,Weekday,4,Non-Intersection,September,Residential,Dark - Roadway Not Lighted,Mixed (30% To 70% Developed),Coarse Asphalt,Rural,50 - 55  MPH
-103860677,40-49,With Traffic,White,No,Weekday,11,Non-Intersection,August,Commercial,Daylight,Urban (>70% Developed),Smooth Asphalt,Urban,30 - 35  MPH
-103863353,60-69,With Traffic,White,No,Weekday,19,Non-Intersection,September,Residential,Dark - Roadway Not Lighted,Mixed (30% To 70% Developed),Smooth Asphalt,Rural,50 - 55  MPH
-103867793,30-39,Facing Traffic,Black,Yes,Weekday,23,Intersection,September,Commercial,Dark - Lighted Roadway,Urban (>70% Developed),Smooth Asphalt,Urban,30 - 35  MPH
-103871590,50-59,With Traffic,Black,Yes,Weekday,19,Intersection,October,"Farms, Woods, Pastures",Dark - Roadway Not Lighted,Rural (<30% Developed),Smooth Asphalt,Rural,50 - 55  MPH
-104495472,70+,With Traffic,White,No,Weekend,11,Intersection,September,Residential,Daylight,Urban (>70% Developed),Smooth Asphalt,Urban,30 - 35  MPH
-104497635,70+,With Traffic,White,No,Weekday,10,Non-Intersection,September,Industrial,Daylight,Urban (>70% Developed),Smooth Asphalt,Urban,40 - 45  MPH
-103989270,50-59,With Traffic,White,No,Weekday,13,Non-Intersection,February,Commercial,Daylight,Mixed (30% To 70% Developed),Coarse Asphalt,Rural,50 - 55  MPH
-103999574,60-69,With Traffic,White,No,Weekend,15,Intersection,March,Residential,Daylight,Mixed (30% To 70% Developed),Smooth Asphalt,Rural,30 - 35  MPH
-104000069,40-49,With Traffic,Hispanic,No,Weekend,17,Non-Intersection,February,"Farms, Woods, Pastures",Daylight,Rural (<30% Developed),Smooth Asphalt,Rural,50 - 55  MPH
-104030148,50-59,With Traffic,White,No,Weekday,18,Intersection,April,Commercial,Daylight,Urban (>70% Developed),Smooth Asphalt,Urban,30 - 35  MPH
-104094765,70+,Not Applicable,Black,No,Weekday,10,Intersection,June,Commercial,Daylight,Urban (>70% Developed),Smooth Asphalt,Urban,5 - 15 MPH
-104137256,50-59,With Traffic,Black,No,Weekday,8,Non-Intersection,May,"Farms, Woods, Pastures",Daylight,Rural (<30% Developed),Coarse Asphalt,Rural,50 - 55  MPH
-104138496,50-59,With Traffic,White,No,Weekday,17,Non-Intersection,June,"Farms, Woods, Pastures",Daylight,Rural (<30% Developed),Smooth Asphalt,Rural,40 - 45  MPH
-104144255,50-59,With Traffic,White,No,Weekday,6,Intersection,September,Residential,Dawn,Urban (>70% Developed),Smooth Asphalt,Urban,20 - 25  MPH
-104155264,30-39,With Traffic,Black,Yes,Weekday,22,Non-Intersection,July,Residential,Dark - Roadway Not Lighted,Urban (>70% Developed),Smooth Asphalt,Urban,40 - 45  MPH
-104167205,60-69,With Traffic,Black,No,Weekday,21,Non-Intersection,September,"Farms, Woods, Pastures",Dark - Roadway Not Lighted,Rural (<30% Developed),Smooth Asphalt,Rural,50 - 55  MPH
-104171468,30-39,With Traffic,Hispanic,Yes,Weekend,23,Intersection,August,Commercial,Dark - Lighted Roadway,Urban (>70% Developed),Smooth Asphalt,Urban,40 - 45  MPH
-104180207,30-39,With Traffic,Black,Yes,Weekday,20,Intersection,October,Commercial,Dark - Lighted Roadway,Mixed (30% To 70% Developed),Coarse Asphalt,Rural,30 - 35  MPH
-104187355,25-29,Unknown,Black,No,Weekday,22,Non-Intersection,September,Commercial,Dark - Roadway Not Lighted,Mixed (30% To 70% Developed),Coarse Asphalt,Rural,50 - 55  MPH
-104202158,50-59,With Traffic,White,No,Weekend,19,Intersection,October,Residential,Daylight,Urban (>70% Developed),Smooth Asphalt,Urban,30 - 35  MPH
-104258812,16-19,Facing Traffic,White,No,Weekday,19,Non-Intersection,December,"Farms, Woods, Pastures",Dark - Roadway Not Lighted,Rural (<30% Developed),Smooth Asphalt,Rural,40 - 45  MPH
-104270429,50-59,With Traffic,White,No,Weekday,16,Non-Intersection,January,"Farms, Woods, Pastures",Dusk,Rural (<30% Developed),Coarse Asphalt,Rural,50 - 55  MPH
-104280501,50-59,Facing Traffic,Black,Yes,Weekday,19,Non-Intersection,January,"Farms, Woods, Pastures",Dark - Roadway Not Lighted,Rural (<30% Developed),Coarse Asphalt,Rural,50 - 55  MPH
-104285648,40-49,Not Applicable,White,No,Weekday,18,Intersection,January,Commercial,Dark - Roadway Not Lighted,Urban (>70% Developed),Coarse Asphalt,Rural,50 - 55  MPH
-104287955,50-59,Facing Traffic,White,No,Weekday,9,Non-Intersection,October,Commercial,Daylight,Urban (>70% Developed),Smooth Asphalt,Urban,Unknown
-104308419,60-69,With Traffic,Black,No,Weekday,18,Non-Intersection,February,Residential,Dark - Lighted Roadway,Rural (<30% Developed),Smooth Asphalt,Rural,40 - 45  MPH
-104379706,45245,Unknown,Native American,No,Weekend,11,Non-Intersection,May,"Farms, Woods, Pastures",Daylight,Mixed (30% To 70% Developed),Coarse Asphalt,Rural,50 - 55  MPH
-104392560,45205,Not Applicable,Other,No,Weekday,20,Non-Intersection,May,Residential,Dusk,Mixed (30% To 70% Developed),Coarse Asphalt,Rural,40 - 45  MPH
-104410426,25-29,With Traffic,White,No,Weekend,21,Non-Intersection,June,"Farms, Woods, Pastures",Dark - Roadway Not Lighted,Rural (<30% Developed),Coarse Asphalt,Rural,50 - 55  MPH
-104418299,45205,Not Applicable,Asian,No,Weekday,19,Non-Intersection,May,Commercial,Dusk,Urban (>70% Developed),Coarse Asphalt,Urban,Unknown
-104435241,50-59,With Traffic,White,Yes,Weekday,22,Intersection,July,Commercial,Dark - Roadway Not Lighted,Urban (>70% Developed),Smooth Asphalt,Urban,40 - 45  MPH
-104459521,25-29,With Traffic,White,No,Weekday,7,Non-Intersection,August,Commercial,Daylight,Urban (>70% Developed),Coarse Asphalt,Urban,30 - 35  MPH
-104482166,60-69,With Traffic,Hispanic,No,Weekend,15,Non-Intersection,August,"Farms, Woods, Pastures",Daylight,Rural (<30% Developed),Smooth Asphalt,Rural,30 - 35  MPH
-104491049,25-29,With Traffic,White,No,Weekday,6,Non-Intersection,September,Commercial,Dark - Roadway Not Lighted,Mixed (30% To 70% Developed),Smooth Asphalt,Rural,50 - 55  MPH
-104501240,40-49,With Traffic,Black,No,Weekday,20,Non-Intersection,September,"Farms, Woods, Pastures",Dark - Roadway Not Lighted,Rural (<30% Developed),Coarse Asphalt,Rural,50 - 55  MPH
-104515556,60-69,With Traffic,Black,No,Weekday,11,Intersection-Related,October,"Farms, Woods, Pastures",Daylight,Rural (<30% Developed),Smooth Asphalt,Rural,50 - 55  MPH
-104547847,30-39,With Traffic,White,No,Weekday,19,Non-Intersection,November,Residential,Dark - Roadway Not Lighted,Mixed (30% To 70% Developed),Smooth Asphalt,Rural,50 - 55  MPH
-104553073,50-59,With Traffic,White,No,Weekend,20,Non-Intersection,November,Commercial,Dark - Roadway Not Lighted,Mixed (30% To 70% Developed),Smooth Asphalt,Rural,40 - 45  MPH
-104588282,45245,Facing Traffic,White,No,Weekday,16,Intersection,November,Institutional,Daylight,Urban (>70% Developed),Coarse Asphalt,Urban,30 - 35  MPH
-104590157,50-59,With Traffic,Native American,No,Weekday,17,Non-Intersection,December,"Farms, Woods, Pastures",Dark - Roadway Not Lighted,Rural (<30% Developed),Coarse Asphalt,Rural,50 - 55  MPH
-104611876,50-59,With Traffic,Black,No,Weekend,18,Non-Intersection,January,Residential,Dark - Roadway Not Lighted,Rural (<30% Developed),Coarse Asphalt,Rural,40 - 45  MPH
-104624620,25-29,With Traffic,White,Yes,Weekend,19,Non-Intersection,December,"Farms, Woods, Pastures",Dark - Roadway Not Lighted,Rural (<30% Developed),Coarse Asphalt,Rural,50 - 55  MPH
-104669329,30-39,With Traffic,White,Yes,Weekday,20,Non-Intersection,March,Residential,Dark - Roadway Not Lighted,Rural (<30% Developed),Coarse Asphalt,Rural,40 - 45  MPH
-104711107,70+,With Traffic,White,No,Weekday,15,Intersection,April,Residential,Daylight,Mixed (30% To 70% Developed),Smooth Asphalt,Rural,30 - 35  MPH
-104720637,45245,With Traffic,Black,No,Weekend,12,Non-Intersection,April,Commercial,Daylight,Urban (>70% Developed),Smooth Asphalt,Urban,30 - 35  MPH
-104749870,40-49,With Traffic,Black,No,Weekend,9,Non-Intersection,May,Residential,Dark - Lighted Roadway,Urban (>70% Developed),Smooth Asphalt,Urban,30 - 35  MPH
-104765188,60-69,With Traffic,White,No,Weekday,10,Non-Intersection,May,"Farms, Woods, Pastures",Daylight,Rural (<30% Developed),Smooth Asphalt,Rural,50 - 55  MPH
-104781752,20-24,With Traffic,Black,Yes,Weekend,21,Non-Intersection,June,Residential,Dark - Roadway Not Lighted,Rural (<30% Developed),Coarse Asphalt,Rural,40 - 45  MPH
-104782506,16-19,With Traffic,White,No,Weekday,0,Non-Intersection,June,"Farms, Woods, Pastures",Dark - Roadway Not Lighted,Rural (<30% Developed),Coarse Asphalt,Rural,50 - 55  MPH
-104805103,60-69,With Traffic,White,No,Weekday,7,Non-Intersection,July,"Farms, Woods, Pastures",Daylight,Rural (<30% Developed),Coarse Asphalt,Rural,50 - 55  MPH
-104805264,45245,With Traffic,Black,No,Weekday,18,Intersection,July,"Farms, Woods, Pastures",Daylight,Rural (<30% Developed),Coarse Asphalt,Rural,50 - 55  MPH
-104851779,50-59,Facing Traffic,Hispanic,Yes,Weekend,1,Non-Intersection,August,Commercial,Dark - Lighted Roadway,Urban (>70% Developed),Smooth Asphalt,Urban,40 - 45  MPH
-104862682,50-59,With Traffic,White,Yes,Weekday,21,Non-Intersection,September,"Farms, Woods, Pastures",Dark - Roadway Not Lighted,Rural (<30% Developed),Coarse Asphalt,Rural,50 - 55  MPH
-104870531,60-69,Not Applicable,White,No,Weekend,20,Non-Intersection,August,Residential,Dusk,Mixed (30% To 70% Developed),Coarse Asphalt,Rural,30 - 35  MPH
-104903463,30-39,With Traffic,White,No,Weekday,6,Intersection,October,"Farms, Woods, Pastures",Dark - Roadway Not Lighted,Rural (<30% Developed),Smooth Asphalt,Rural,50 - 55  MPH
-104972478,40-49,With Traffic,White,Yes,Weekday,19,Non-Intersection,November,Commercial,Dark - Roadway Not Lighted,Mixed (30% To 70% Developed),Smooth Asphalt,Urban,50 - 55  MPH
-104975946,40-49,With Traffic,Hispanic,No,Weekday,18,Intersection,January,Commercial,Dark - Roadway Not Lighted,Urban (>70% Developed),Coarse Asphalt,Urban,40 - 45  MPH
-104976098,50-59,Unknown,White,Yes,Weekday,23,Intersection,December,Commercial,Dark - Roadway Not Lighted,Mixed (30% To 70% Developed),Smooth Asphalt,Urban,40 - 45  MPH
-104993807,30-39,With Traffic,Hispanic,Yes,Weekday,18,Non-Intersection,January,Commercial,Dark - Lighted Roadway,Urban (>70% Developed),Coarse Asphalt,Urban,40 - 45  MPH
-105019099,50-59,With Traffic,Hispanic,No,Weekday,6,Intersection,February,"Farms, Woods, Pastures",Dark - Roadway Not Lighted,Rural (<30% Developed),Coarse Asphalt,Rural,50 - 55  MPH
-105024960,25-29,With Traffic,White,Yes,Weekday,23,Non-Intersection,February,Commercial,Dark - Lighted Roadway,Urban (>70% Developed),Smooth Asphalt,Urban,50 - 55  MPH
-105025938,40-49,With Traffic,Asian,Yes,Weekday,23,Non-Intersection,February,"Farms, Woods, Pastures",Dark - Roadway Not Lighted,Urban (>70% Developed),Smooth Asphalt,Urban,40 - 45  MPH
-105043127,50-59,With Traffic,White,No,Weekday,6,Intersection,March,Residential,Dark - Roadway Not Lighted,Mixed (30% To 70% Developed),Smooth Asphalt,Urban,40 - 45  MPH
-105074553,40-49,With Traffic,Black,Yes,Weekday,0,Intersection-Related,April,Residential,Dark - Roadway Not Lighted,Urban (>70% Developed),Smooth Asphalt,Rural,30 - 35  MPH
-105081973,60-69,With Traffic,White,Yes,Weekend,15,Intersection,April,Commercial,Daylight,Urban (>70% Developed),Smooth Asphalt,Urban,40 - 45  MPH
-105101051,70+,With Traffic,White,No,Weekday,15,Non-Intersection,May,Commercial,Daylight,Rural (<30% Developed),Coarse Asphalt,Rural,50 - 55  MPH
-105115677,50-59,With Traffic,Black,No,Weekday,14,Non-Intersection,May,"Farms, Woods, Pastures",Daylight,Rural (<30% Developed),Coarse Asphalt,Rural,50 - 55  MPH
-105125493,60-69,With Traffic,White,No,Weekend,17,Non-Intersection,May,"Farms, Woods, Pastures",Daylight,Rural (<30% Developed),Coarse Asphalt,Rural,50 - 55  MPH
-105130569,50-59,With Traffic,White,No,Weekday,18,Non-Intersection,May,"Farms, Woods, Pastures",Daylight,Rural (<30% Developed),Coarse Asphalt,Rural,50 - 55  MPH
-105131758,20-24,With Traffic,White,No,Weekday,17,Intersection,May,Commercial,Daylight,Urban (>70% Developed),Coarse Asphalt,Urban,20 - 25  MPH
-105138004,50-59,With Traffic,White,Yes,Weekday,16,Intersection,May,Commercial,Daylight,Urban (>70% Developed),Concrete,Urban,20 - 25  MPH
-105151164,25-29,With Traffic,White,Yes,Weekday,0,Non-Intersection,June,Commercial,Dark - Lighted Roadway,Mixed (30% To 70% Developed),Smooth Asphalt,Urban,30 - 35  MPH
-105153313,25-29,Facing Traffic,White,Yes,Weekend,1,Non-Intersection,June,Residential,Dark - Lighted Roadway,Urban (>70% Developed),Smooth Asphalt,Urban,30 - 35  MPH
-105169916,60-69,With Traffic,White,No,Weekend,9,Intersection,July,"Farms, Woods, Pastures",Daylight,Rural (<30% Developed),Smooth Asphalt,Rural,40 - 45  MPH
-105170713,16-19,With Traffic,White,No,Weekday,12,Intersection-Related,July,Commercial,Daylight,Urban (>70% Developed),Coarse Asphalt,Urban,30 - 35  MPH
-105189064,60-69,With Traffic,Hispanic,No,Weekday,19,Non-Intersection,July,"Farms, Woods, Pastures",Daylight,Urban (>70% Developed),Coarse Asphalt,Rural,60 - 75 MPH
-105196120,16-19,With Traffic,White,Yes,Weekday,12,Non-Intersection,July,Residential,Daylight,Mixed (30% To 70% Developed),Coarse Asphalt,Rural,40 - 45  MPH
-105235926,50-59,With Traffic,Black,No,Weekday,8,Non-Intersection,August,Residential,Daylight,Mixed (30% To 70% Developed),Coarse Asphalt,Rural,50 - 55  MPH
-105249192,40-49,With Traffic,White,No,Weekday,19,Intersection,October,Residential,Dark - Roadway Not Lighted,Mixed (30% To 70% Developed),Smooth Asphalt,Urban,30 - 35  MPH
-105263600,50-59,With Traffic,White,No,Weekend,17,Non-Intersection,October,"Farms, Woods, Pastures",Daylight,Rural (<30% Developed),Coarse Asphalt,Rural,50 - 55  MPH
-105266666,70+,With Traffic,White,No,Weekend,17,Intersection,October,"Farms, Woods, Pastures",Daylight,Rural (<30% Developed),Smooth Asphalt,Rural,50 - 55  MPH
-105293949,60-69,With Traffic,White,No,Weekday,17,Non-Intersection,October,"Farms, Woods, Pastures",Dusk,Rural (<30% Developed),Smooth Asphalt,Rural,50 - 55  MPH
-105314022,60-69,Facing Traffic,White,No,Weekday,16,Non-Intersection,November,Commercial,Daylight,Urban (>70% Developed),Coarse Asphalt,Urban,30 - 35  MPH
-105333422,50-59,With Traffic,White,No,Weekend,14,Intersection,December,Commercial,Dusk,Urban (>70% Developed),Smooth Asphalt,Urban,40 - 45  MPH
-105340111,60-69,With Traffic,Black,No,Weekday,17,Non-Intersection,January,Residential,Dusk,Urban (>70% Developed),Smooth Asphalt,Urban,50 - 55  MPH
-105340896,40-49,With Traffic,Black,No,Weekday,6,Non-Intersection,January,Residential,Dark - Roadway Not Lighted,Rural (<30% Developed),Coarse Asphalt,Rural,40 - 45  MPH
-105402445,60-69,With Traffic,White,No,Weekday,15,Non-Intersection,February,"Farms, Woods, Pastures",Daylight,Rural (<30% Developed),Coarse Asphalt,Rural,50 - 55  MPH
-105458837,50-59,With Traffic,White,No,Weekend,10,Intersection,April,Residential,Daylight,Urban (>70% Developed),Smooth Asphalt,Urban,30 - 35  MPH
-105541093,16-19,With Traffic,White,No,Weekend,19,Non-Intersection,July,"Farms, Woods, Pastures",Daylight,Rural (<30% Developed),Smooth Asphalt,Rural,50 - 55  MPH
-105574265,16-19,Unknown,Black,Yes,Weekend,1,Non-Intersection,August,Residential,Dark - Lighted Roadway,Urban (>70% Developed),Coarse Asphalt,Urban,40 - 45  MPH
-105593613,45205,Not Applicable,Black,No,Weekday,16,Non-Intersection,August,"Farms, Woods, Pastures",Daylight,Rural (<30% Developed),Coarse Asphalt,Rural,50 - 55  MPH
-105603945,40-49,With Traffic,White,No,Weekend,22,Non-Intersection,August,Residential,Dark - Roadway Not Lighted,Rural (<30% Developed),Smooth Asphalt,Rural,50 - 55  MPH
-105604078,50-59,With Traffic,Black,Yes,Weekday,21,Non-Intersection,September,"Farms, Woods, Pastures",Dark - Roadway Not Lighted,Rural (<30% Developed),Smooth Asphalt,Rural,50 - 55  MPH
-105626759,70+,With Traffic,Black,No,Weekend,19,Non-Intersection,September,"Farms, Woods, Pastures",Dark - Roadway Not Lighted,Mixed (30% To 70% Developed),Smooth Asphalt,Rural,40 - 45  MPH
-105631575,20-24,With Traffic,White,No,Weekday,20,Intersection,September,Commercial,Dark - Roadway Not Lighted,Mixed (30% To 70% Developed),Smooth Asphalt,Rural,50 - 55  MPH
-105661905,30-39,With Traffic,White,Yes,Weekday,21,Intersection,October,Residential,Dark - Lighted Roadway,Urban (>70% Developed),Coarse Asphalt,Urban,20 - 25  MPH
-105683190,40-49,With Traffic,White,No,Weekday,0,Non-Intersection,November,Commercial,Dark - Lighted Roadway,Urban (>70% Developed),Smooth Asphalt,Urban,30 - 35  MPH
-105695678,30-39,With Traffic,White,No,Weekday,17,Non-Intersection,October,Commercial,Daylight,Urban (>70% Developed),Smooth Asphalt,Rural,40 - 45  MPH
-105696370,20-24,With Traffic,Native American,No,Weekday,6,Non-Intersection,October,"Farms, Woods, Pastures",Dark - Roadway Not Lighted,Rural (<30% Developed),Smooth Asphalt,Rural,40 - 45  MPH
-105793793,60-69,With Traffic,White,No,Weekend,20,Non-Intersection,March,Commercial,Daylight,Urban (>70% Developed),Smooth Asphalt,Rural,50 - 55  MPH
-105793904,50-59,With Traffic,Black,Yes,Weekday,5,Non-Intersection,February,"Farms, Woods, Pastures",Dark - Roadway Not Lighted,Rural (<30% Developed),Coarse Asphalt,Rural,40 - 45  MPH
-105794635,60-69,Facing Traffic,Black,No,Weekend,2,Non-Intersection,February,Residential,Dark - Lighted Roadway,Urban (>70% Developed),Coarse Asphalt,Urban,30 - 35  MPH
-105794969,50-59,Facing Traffic,White,No,Weekday,15,Non-Intersection,February,Residential,Daylight,Urban (>70% Developed),Smooth Asphalt,Urban,30 - 35  MPH
-105807693,70+,Facing Traffic,White,No,Weekday,13,Non-Intersection,March,Commercial,Daylight,Mixed (30% To 70% Developed),Smooth Asphalt,Urban,20 - 25  MPH
-105889183,45245,With Traffic,White,No,Weekday,5,Non-Intersection,June,"Farms, Woods, Pastures",Dark - Roadway Not Lighted,Rural (<30% Developed),Smooth Asphalt,Rural,50 - 55  MPH
-105933548,25-29,With Traffic,Other,Yes,Weekday,12,Non-Intersection,May,"Farms, Woods, Pastures",Daylight,Rural (<30% Developed),Coarse Asphalt,Rural,50 - 55  MPH
-105942773,20-24,With Traffic,Black,No,Weekday,17,Non-Intersection,June,Residential,Daylight,Rural (<30% Developed),Coarse Asphalt,Rural,50 - 55  MPH
-105954122,60-69,With Traffic,White,No,Weekend,23,Intersection,July,Commercial,Dark - Roadway Not Lighted,Urban (>70% Developed),Coarse Asphalt,Rural,40 - 45  MPH
-105987466,60-69,With Traffic,White,No,Weekday,6,Non-Intersection,August,"Farms, Woods, Pastures",Dark - Roadway Not Lighted,Rural (<30% Developed),Coarse Asphalt,Rural,40 - 45  MPH
-106003072,30-39,With Traffic,White,No,Weekday,18,Non-Intersection,August,Residential,Daylight,Rural (<30% Developed),Smooth Asphalt,Rural,40 - 45  MPH
-106014479,40-49,With Traffic,White,Yes,Weekday,19,Non-Intersection,October,Commercial,Dusk,Mixed (30% To 70% Developed),Smooth Asphalt,Urban,40 - 45  MPH
-106017581,50-59,Not Applicable,White,No,Weekday,16,Non-Intersection,September,Commercial,Daylight,Urban (>70% Developed),Coarse Asphalt,Urban,30 - 35  MPH
-106055568,40-49,Facing Traffic,Black,No,Weekday,6,Intersection-Related,October,Residential,Dark - Lighted Roadway,Urban (>70% Developed),Smooth Asphalt,Urban,30 - 35  MPH
-106067967,60-69,With Traffic,Hispanic,No,Weekday,11,Non-Intersection,October,"Farms, Woods, Pastures",Daylight,Rural (<30% Developed),Smooth Asphalt,Rural,50 - 55  MPH
-106075936,30-39,With Traffic,White,No,Weekend,19,Non-Intersection,November,Residential,Dark - Roadway Not Lighted,Mixed (30% To 70% Developed),Smooth Asphalt,Rural,40 - 45  MPH
-106078934,30-39,With Traffic,White,No,Weekday,20,Non-Intersection,November,"Farms, Woods, Pastures",Dark - Roadway Not Lighted,Rural (<30% Developed),Smooth Asphalt,Rural,50 - 55  MPH
-106113296,45245,With Traffic,Black,No,Weekday,17,Non-Intersection,December,Commercial,Dark - Lighted Roadway,Urban (>70% Developed),Smooth Asphalt,Urban,30 - 35  MPH
-106124917,50-59,With Traffic,White,No,Weekday,20,Non-Intersection,December,Commercial,Dark - Lighted Roadway,Urban (>70% Developed),Coarse Asphalt,Urban,50 - 55  MPH
+﻿BikeDir,CrashAlcoh,WeekdayOrWeekend,CrashLoc,Developmen,LightCond,Locality,RdSurface,RuralUrban,SpeedLimit
+With Traffic,Yes,Weekday,Non-Intersection,Residential,Daylight,Urban (>70% Developed),Smooth Asphalt,Urban,40 - 45  MPH
+With Traffic,No,Weekday,Non-Intersection,"Farms, Woods, Pastures",Daylight,Rural (<30% Developed),Smooth Asphalt,Rural,60 - 75 MPH
+With Traffic,No,Weekend,Non-Intersection,"Farms, Woods, Pastures",Daylight,Rural (<30% Developed),Smooth Asphalt,Rural,50 - 55  MPH
+With Traffic,No,Weekday,Non-Intersection,Commercial,Dark - Roadway Not Lighted,Urban (>70% Developed),Smooth Asphalt,Urban,50 - 55  MPH
+With Traffic,No,Weekday,Non-Intersection,Residential,Daylight,Rural (<30% Developed),Smooth Asphalt,Rural,30 - 35  MPH
+With Traffic,No,Weekday,Non-Intersection,"Farms, Woods, Pastures",Dark - Roadway Not Lighted,Rural (<30% Developed),Smooth Asphalt,Rural,50 - 55  MPH
+With Traffic,No,Weekday,Intersection,Residential,Daylight,Mixed (30% To 70% Developed),Smooth Asphalt,Rural,40 - 45  MPH
+With Traffic,No,Weekday,Intersection,Residential,Daylight,Urban (>70% Developed),Coarse Asphalt,Urban,30 - 35  MPH
+Not Applicable,No,Weekday,Non-Intersection,"Farms, Woods, Pastures",Dark - Roadway Not Lighted,Rural (<30% Developed),Coarse Asphalt,Rural,50 - 55  MPH
+With Traffic,No,Weekday,Non-Intersection,"Farms, Woods, Pastures",Daylight,Rural (<30% Developed),Smooth Asphalt,Rural,50 - 55  MPH
+With Traffic,No,Weekend,Non-Intersection,Residential,Daylight,Mixed (30% To 70% Developed),Coarse Asphalt,Rural,40 - 45  MPH
+With Traffic,No,Weekday,Non-Intersection,Residential,Dark - Roadway Not Lighted,Rural (<30% Developed),Coarse Asphalt,Rural,40 - 45  MPH
+Not Applicable,No,Weekend,Non-Intersection,Residential,Daylight,Urban (>70% Developed),Smooth Asphalt,Urban,40 - 45  MPH
+With Traffic,No,Weekday,Intersection,Commercial,Daylight,Urban (>70% Developed),Smooth Asphalt,Urban,30 - 35  MPH
+With Traffic,No,Weekend,Non-Intersection,Residential,Daylight,Rural (<30% Developed),Smooth Asphalt,Rural,30 - 35  MPH
+With Traffic,No,Weekday,Intersection,Commercial,Daylight,Urban (>70% Developed),Smooth Asphalt,Urban,40 - 45  MPH
+With Traffic,No,Weekend,Intersection,Commercial,Daylight,Urban (>70% Developed),Smooth Asphalt,Urban,40 - 45  MPH
+With Traffic,Yes,Weekday,Non-Intersection,Residential,Daylight,Urban (>70% Developed),Smooth Asphalt,Urban,20 - 25  MPH
+With Traffic,No,Weekday,Non-Intersection,"Farms, Woods, Pastures",Daylight,Rural (<30% Developed),Smooth Asphalt,Rural,50 - 55  MPH
+With Traffic,Yes,Weekend,Non-Intersection,Commercial,Dark - Roadway Not Lighted,Urban (>70% Developed),Coarse Asphalt,Urban,50 - 55  MPH
+With Traffic,No,Weekday,Intersection,Residential,Daylight,Mixed (30% To 70% Developed),Coarse Asphalt,Rural,50 - 55  MPH
+With Traffic,Yes,Weekday,Intersection,Commercial,Dark - Lighted Roadway,Urban (>70% Developed),Coarse Asphalt,Urban,30 - 35  MPH
+With Traffic,No,Weekday,Non-Intersection,Residential,Daylight,Mixed (30% To 70% Developed),Coarse Asphalt,Rural,40 - 45  MPH
+With Traffic,No,Weekend,Non-Intersection,Commercial,Dark - Roadway Not Lighted,Urban (>70% Developed),Coarse Asphalt,Urban,50 - 55  MPH
+With Traffic,No,Weekday,Non-Intersection,Residential,Daylight,Rural (<30% Developed),Coarse Asphalt,Rural,50 - 55  MPH
+Facing Traffic,No,Weekend,Non-Intersection,"Farms, Woods, Pastures",Dark - Roadway Not Lighted,Rural (<30% Developed),Smooth Asphalt,Rural,50 - 55  MPH
+With Traffic,No,Weekday,Non-Intersection,Residential,Dark - Roadway Not Lighted,Mixed (30% To 70% Developed),Smooth Asphalt,Rural,40 - 45  MPH
+Facing Traffic,No,Weekday,Non-Intersection,Commercial,Daylight,Mixed (30% To 70% Developed),Coarse Asphalt,Urban,50 - 55  MPH
+With Traffic,No,Weekday,Non-Intersection,Commercial,Daylight,Urban (>70% Developed),Smooth Asphalt,Urban,40 - 45  MPH
+Facing Traffic,No,Weekday,Non-Intersection,Commercial,Dark - Lighted Roadway,Urban (>70% Developed),Concrete,Urban,40 - 45  MPH
+Not Applicable,No,Weekday,Non-Intersection,Residential,Dusk,Rural (<30% Developed),Smooth Asphalt,Rural,50 - 55  MPH
+With Traffic,No,Weekday,Non-Intersection,"Farms, Woods, Pastures",Dark - Roadway Not Lighted,Mixed (30% To 70% Developed),Smooth Asphalt,Rural,60 - 75 MPH
+With Traffic,Yes,Weekday,Non-Intersection,Residential,Dark - Roadway Not Lighted,Mixed (30% To 70% Developed),Smooth Asphalt,Rural,40 - 45  MPH
+With Traffic,No,Weekday,Non-Intersection,Commercial,Dark - Roadway Not Lighted,Mixed (30% To 70% Developed),Smooth Asphalt,Rural,50 - 55  MPH
+With Traffic,Yes,Weekend,Non-Intersection,"Farms, Woods, Pastures",Dark - Roadway Not Lighted,Rural (<30% Developed),Coarse Asphalt,Rural,40 - 45  MPH
+With Traffic,No,Weekday,Non-Intersection,Commercial,Dark - Lighted Roadway,Mixed (30% To 70% Developed),Coarse Asphalt,Urban,40 - 45  MPH
+Not Applicable,No,Weekday,Non-Intersection,Commercial,Dark - Roadway Not Lighted,Urban (>70% Developed),Coarse Asphalt,Urban,40 - 45  MPH
+With Traffic,No,Weekend,Non-Intersection,"Farms, Woods, Pastures",Daylight,Rural (<30% Developed),Smooth Asphalt,Rural,50 - 55  MPH
+With Traffic,No,Weekday,Non-Intersection,Commercial,Daylight,Urban (>70% Developed),Smooth Asphalt,Urban,40 - 45  MPH
+With Traffic,No,Weekday,Non-Intersection,Commercial,Daylight,Urban (>70% Developed),Smooth Asphalt,Urban,40 - 45  MPH
+Not Applicable,Yes,Weekday,Non-Intersection,Commercial,Dark - Roadway Not Lighted,Urban (>70% Developed),Smooth Asphalt,Urban,40 - 45  MPH
+With Traffic,No,Weekday,Non-Intersection,Commercial,Dark - Lighted Roadway,Urban (>70% Developed),Smooth Asphalt,Urban,50 - 55  MPH
+Not Applicable,No,Weekend,Non-Intersection,Commercial,Daylight,Urban (>70% Developed),Coarse Asphalt,Rural,30 - 35  MPH
+With Traffic,Yes,Weekend,Non-Intersection,Residential,Dark - Roadway Not Lighted,Urban (>70% Developed),Smooth Asphalt,Rural,50 - 55  MPH
+Facing Traffic,No,Weekday,Intersection,Commercial,Daylight,Urban (>70% Developed),Smooth Asphalt,Urban,30 - 35  MPH
+With Traffic,No,Weekend,Non-Intersection,Commercial,Dark - Roadway Not Lighted,Urban (>70% Developed),Smooth Asphalt,Urban,60 - 75 MPH
+With Traffic,No,Weekend,Intersection,Residential,Daylight,Urban (>70% Developed),Grooved Concrete,Urban,40 - 45  MPH
+With Traffic,No,Weekday,Intersection,Residential,Daylight,Urban (>70% Developed),Smooth Asphalt,Urban,20 - 25  MPH
+With Traffic,Yes,Weekend,Non-Intersection,"Farms, Woods, Pastures",Dark - Roadway Not Lighted,Rural (<30% Developed),Smooth Asphalt,Rural,50 - 55  MPH
+With Traffic,No,Weekend,Non-Intersection,"Farms, Woods, Pastures",Daylight,Rural (<30% Developed),Smooth Asphalt,Rural,50 - 55  MPH
+With Traffic,No,Weekday,Non-Intersection,Commercial,Dark - Lighted Roadway,Urban (>70% Developed),Smooth Asphalt,Rural,40 - 45  MPH
+With Traffic,No,Weekend,Non-Intersection,Residential,Daylight,Urban (>70% Developed),Coarse Asphalt,Rural,30 - 35  MPH
+With Traffic,No,Weekday,Non-Intersection,Commercial,Dark - Roadway Not Lighted,Urban (>70% Developed),Smooth Asphalt,Urban,40 - 45  MPH
+With Traffic,No,Weekday,Intersection,Residential,Daylight,Urban (>70% Developed),Coarse Asphalt,Urban,30 - 35  MPH
+With Traffic,No,Weekday,Non-Intersection,Commercial,Daylight,Urban (>70% Developed),Coarse Asphalt,Urban,50 - 55  MPH
+With Traffic,Yes,Weekday,Intersection,"Farms, Woods, Pastures",Dark - Roadway Not Lighted,Rural (<30% Developed),Smooth Asphalt,Rural,50 - 55  MPH
+With Traffic,No,Weekend,Non-Intersection,"Farms, Woods, Pastures",Dark - Roadway Not Lighted,Rural (<30% Developed),Smooth Asphalt,Rural,50 - 55  MPH
+With Traffic,Yes,Weekend,Non-Intersection,"Farms, Woods, Pastures",Dark - Roadway Not Lighted,Rural (<30% Developed),Smooth Asphalt,Rural,50 - 55  MPH
+With Traffic,No,Weekday,Non-Intersection,"Farms, Woods, Pastures",Daylight,Mixed (30% To 70% Developed),Smooth Asphalt,Rural,50 - 55  MPH
+Facing Traffic,No,Weekend,Non-Intersection,"Farms, Woods, Pastures",Daylight,Rural (<30% Developed),Smooth Asphalt,Rural,50 - 55  MPH
+Facing Traffic,No,Weekday,Non-Intersection,Residential,Dark - Roadway Not Lighted,Rural (<30% Developed),Smooth Asphalt,Rural,40 - 45  MPH
+With Traffic,Yes,Weekday,Intersection,Residential,Dark - Lighted Roadway,Urban (>70% Developed),Smooth Asphalt,Urban,30 - 35  MPH
+Facing Traffic,Yes,Weekday,Non-Intersection,Residential,Dark - Roadway Not Lighted,Rural (<30% Developed),Coarse Asphalt,Rural,50 - 55  MPH
+With Traffic,Yes,Weekday,Non-Intersection,"Farms, Woods, Pastures",Dark - Roadway Not Lighted,Rural (<30% Developed),Coarse Asphalt,Rural,50 - 55  MPH
+With Traffic,No,Weekday,Non-Intersection,Commercial,Daylight,Urban (>70% Developed),Coarse Asphalt,Urban,50 - 55  MPH
+With Traffic,No,Weekday,Non-Intersection,"Farms, Woods, Pastures",Daylight,Rural (<30% Developed),Coarse Asphalt,Rural,50 - 55  MPH
+With Traffic,No,Weekday,Non-Intersection,"Farms, Woods, Pastures",Daylight,Mixed (30% To 70% Developed),Smooth Asphalt,Rural,50 - 55  MPH
+With Traffic,No,Weekday,Non-Intersection,"Farms, Woods, Pastures",Daylight,Rural (<30% Developed),Coarse Asphalt,Rural,40 - 45  MPH
+With Traffic,No,Weekday,Non-Intersection,"Farms, Woods, Pastures",Dark - Roadway Not Lighted,Urban (>70% Developed),Smooth Asphalt,Urban,30 - 35  MPH
+With Traffic,Yes,Weekday,Non-Intersection,Commercial,Dark - Lighted Roadway,Urban (>70% Developed),Smooth Asphalt,Urban,40 - 45  MPH
+Not Applicable,Yes,Weekend,Non-Intersection,"Farms, Woods, Pastures",Dark - Roadway Not Lighted,Rural (<30% Developed),Smooth Asphalt,Rural,50 - 55  MPH
+With Traffic,No,Weekday,Intersection,Commercial,Daylight,Mixed (30% To 70% Developed),Smooth Asphalt,Urban,40 - 45  MPH
+With Traffic,No,Weekday,Non-Intersection,"Farms, Woods, Pastures",Dark - Roadway Not Lighted,Rural (<30% Developed),Smooth Asphalt,Rural,50 - 55  MPH
+Facing Traffic,No,Weekday,Non-Intersection,Residential,Dark - Roadway Not Lighted,Urban (>70% Developed),Coarse Asphalt,Rural,40 - 45  MPH
+With Traffic,Yes,Weekend,Non-Intersection,Residential,Daylight,Mixed (30% To 70% Developed),Coarse Asphalt,Rural,50 - 55  MPH
+Not Applicable,Yes,Weekday,Non-Intersection,Commercial,Dark - Roadway Not Lighted,Mixed (30% To 70% Developed),Smooth Asphalt,Urban,50 - 55  MPH
+With Traffic,No,Weekday,Non-Intersection,"Farms, Woods, Pastures",Daylight,Rural (<30% Developed),Coarse Asphalt,Rural,50 - 55  MPH
+Not Applicable,No,Weekday,Non-Intersection,Commercial,Daylight,Urban (>70% Developed),Smooth Asphalt,Urban,40 - 45  MPH
+With Traffic,No,Weekend,Non-Intersection,Commercial,Daylight,Urban (>70% Developed),Smooth Asphalt,Urban,20 - 25  MPH
+With Traffic,No,Weekday,Non-Intersection,Residential,Daylight,Urban (>70% Developed),Smooth Asphalt,Rural,50 - 55  MPH
+With Traffic,Yes,Weekend,Intersection-Related,Residential,Dark - Lighted Roadway,Urban (>70% Developed),Smooth Asphalt,Urban,30 - 35  MPH
+Not Applicable,Yes,Weekday,Non-Intersection,Residential,Daylight,Rural (<30% Developed),Coarse Asphalt,Rural,40 - 45  MPH
+With Traffic,Yes,Weekday,Non-Intersection,"Farms, Woods, Pastures",Dark - Roadway Not Lighted,Rural (<30% Developed),Coarse Asphalt,Rural,50 - 55  MPH
+With Traffic,No,Weekday,Non-Intersection,Residential,Dark - Roadway Not Lighted,Rural (<30% Developed),Smooth Asphalt,Rural,50 - 55  MPH
+With Traffic,No,Weekday,Non-Intersection,"Farms, Woods, Pastures",Daylight,Mixed (30% To 70% Developed),Smooth Asphalt,Rural,40 - 45  MPH
+Not Applicable,No,Weekend,Intersection-Related,Industrial,Dark - Lighted Roadway,Urban (>70% Developed),Smooth Asphalt,Urban,50 - 55  MPH
+With Traffic,Yes,Weekday,Non-Intersection,"Farms, Woods, Pastures",Daylight,Rural (<30% Developed),Smooth Asphalt,Rural,50 - 55  MPH
+Facing Traffic,No,Weekend,Intersection,Residential,Daylight,Urban (>70% Developed),Coarse Asphalt,Urban,30 - 35  MPH
+With Traffic,No,Weekday,Non-Intersection,Residential,Daylight,Mixed (30% To 70% Developed),Smooth Asphalt,Urban,40 - 45  MPH
+Facing Traffic,No,Weekday,Non-Intersection,Residential,Daylight,Urban (>70% Developed),Coarse Asphalt,Urban,30 - 35  MPH
+Facing Traffic,No,Weekday,Non-Intersection,Residential,Dark - Roadway Not Lighted,Rural (<30% Developed),Coarse Asphalt,Rural,50 - 55  MPH
+With Traffic,Yes,Weekend,Non-Intersection,"Farms, Woods, Pastures",Dark - Roadway Not Lighted,Rural (<30% Developed),Coarse Asphalt,Rural,50 - 55  MPH
+With Traffic,No,Weekend,Intersection,Residential,Daylight,Mixed (30% To 70% Developed),Coarse Asphalt,Rural,40 - 45  MPH
+Not Applicable,No,Weekday,Non-Intersection,Commercial,Dark - Roadway Not Lighted,Urban (>70% Developed),Smooth Asphalt,Urban,50 - 55  MPH
+With Traffic,No,Weekday,Non-Intersection,Commercial,Daylight,Urban (>70% Developed),Smooth Asphalt,Urban,50 - 55  MPH
+With Traffic,Yes,Weekend,Non-Intersection,Residential,Dark - Roadway Not Lighted,Rural (<30% Developed),Smooth Asphalt,Rural,40 - 45  MPH
+With Traffic,No,Weekday,Non-Intersection,"Farms, Woods, Pastures",Daylight,Mixed (30% To 70% Developed),Smooth Asphalt,Rural,50 - 55  MPH
+Not Applicable,No,Weekday,Non-Intersection,Commercial,Daylight,Urban (>70% Developed),Smooth Asphalt,Rural,40 - 45  MPH
+With Traffic,Yes,Weekday,Non-Intersection,Commercial,Dark - Lighted Roadway,Urban (>70% Developed),Coarse Asphalt,Urban,30 - 35  MPH
+With Traffic,Yes,Weekday,Non-Intersection,Residential,Dark - Roadway Not Lighted,Urban (>70% Developed),Smooth Asphalt,Urban,60 - 75 MPH
+With Traffic,No,Weekday,Non-Intersection,"Farms, Woods, Pastures",Dark - Roadway Not Lighted,Mixed (30% To 70% Developed),Coarse Asphalt,Rural,50 - 55  MPH
+Facing Traffic,Yes,Weekday,Non-Intersection,Residential,Daylight,Rural (<30% Developed),Smooth Asphalt,Rural,50 - 55  MPH
+With Traffic,Yes,Weekday,Non-Intersection,"Farms, Woods, Pastures",Dark - Roadway Not Lighted,Rural (<30% Developed),Coarse Asphalt,Rural,50 - 55  MPH
+With Traffic,No,Weekday,Non-Intersection,"Farms, Woods, Pastures",Daylight,Rural (<30% Developed),Coarse Asphalt,Rural,50 - 55  MPH
+With Traffic,Yes,Weekday,Non-Intersection,"Farms, Woods, Pastures",Dawn,Rural (<30% Developed),Coarse Asphalt,Rural,50 - 55  MPH
+With Traffic,Yes,Weekday,Non-Intersection,"Farms, Woods, Pastures",Dark - Roadway Not Lighted,Rural (<30% Developed),Smooth Asphalt,Rural,50 - 55  MPH
+Facing Traffic,Yes,Weekday,Non-Intersection,"Farms, Woods, Pastures",Daylight,Rural (<30% Developed),Smooth Asphalt,Rural,50 - 55  MPH
+With Traffic,No,Weekday,Non-Intersection,Residential,Dark - Roadway Not Lighted,Mixed (30% To 70% Developed),Coarse Asphalt,Rural,50 - 55  MPH
+Facing Traffic,No,Weekday,Intersection,Commercial,Dark - Unknown Lighting,Urban (>70% Developed),Coarse Asphalt,Urban,30 - 35  MPH
+Facing Traffic,No,Weekday,Intersection,Residential,Daylight,Urban (>70% Developed),Smooth Asphalt,Urban,40 - 45  MPH
+With Traffic,No,Weekday,Non-Intersection,Residential,Daylight,Urban (>70% Developed),Smooth Asphalt,Urban,30 - 35  MPH
+With Traffic,Yes,Weekday,Non-Intersection,Commercial,Dusk,Urban (>70% Developed),Smooth Asphalt,Urban,30 - 35  MPH
+With Traffic,No,Weekend,Non-Intersection,"Farms, Woods, Pastures",Dark - Roadway Not Lighted,Rural (<30% Developed),Smooth Asphalt,Rural,40 - 45  MPH
+With Traffic,No,Weekend,Non-Intersection,Commercial,Daylight,Mixed (30% To 70% Developed),Smooth Asphalt,Rural,50 - 55  MPH
+With Traffic,Yes,Weekend,Non-Intersection,Residential,Dark - Roadway Not Lighted,Urban (>70% Developed),Smooth Asphalt,Urban,40 - 45  MPH
+With Traffic,No,Weekday,Non-Intersection,"Farms, Woods, Pastures",Dark - Roadway Not Lighted,Rural (<30% Developed),Smooth Asphalt,Rural,40 - 45  MPH
+With Traffic,No,Weekday,Non-Intersection,"Farms, Woods, Pastures",Dark - Roadway Not Lighted,Rural (<30% Developed),Coarse Asphalt,Urban,60 - 75 MPH
+With Traffic,No,Weekday,Non-Intersection,Residential,Daylight,Urban (>70% Developed),Smooth Asphalt,Urban,40 - 45  MPH
+With Traffic,No,Weekday,Intersection,Residential,Daylight,Urban (>70% Developed),Coarse Asphalt,Urban,40 - 45  MPH
+With Traffic,No,Weekday,Intersection,Residential,Daylight,Urban (>70% Developed),Smooth Asphalt,Urban,30 - 35  MPH
+With Traffic,No,Weekday,Intersection,Commercial,Daylight,Rural (<30% Developed),Coarse Asphalt,Rural,40 - 45  MPH
+With Traffic,No,Weekday,Non-Intersection,Residential,Dusk,Urban (>70% Developed),Smooth Asphalt,Urban,40 - 45  MPH
+With Traffic,No,Weekday,Intersection-Related,Commercial,Dark - Lighted Roadway,Urban (>70% Developed),Coarse Asphalt,Urban,40 - 45  MPH
+With Traffic,No,Weekday,Non-Intersection,Residential,Dark - Roadway Not Lighted,Urban (>70% Developed),Smooth Asphalt,Urban,30 - 35  MPH
+With Traffic,No,Weekend,Intersection-Related,"Farms, Woods, Pastures",Daylight,Rural (<30% Developed),Smooth Asphalt,Rural,50 - 55  MPH
+With Traffic,No,Weekday,Non-Intersection,"Farms, Woods, Pastures",Daylight,Rural (<30% Developed),Smooth Asphalt,Rural,50 - 55  MPH
+Facing Traffic,No,Weekday,Non-Intersection,Residential,Dark - Roadway Not Lighted,Mixed (30% To 70% Developed),Coarse Asphalt,Rural,50 - 55  MPH
+With Traffic,No,Weekday,Non-Intersection,Commercial,Daylight,Urban (>70% Developed),Smooth Asphalt,Urban,30 - 35  MPH
+With Traffic,No,Weekday,Non-Intersection,Residential,Dark - Roadway Not Lighted,Mixed (30% To 70% Developed),Smooth Asphalt,Rural,50 - 55  MPH
+Facing Traffic,Yes,Weekday,Intersection,Commercial,Dark - Lighted Roadway,Urban (>70% Developed),Smooth Asphalt,Urban,30 - 35  MPH
+With Traffic,Yes,Weekday,Intersection,"Farms, Woods, Pastures",Dark - Roadway Not Lighted,Rural (<30% Developed),Smooth Asphalt,Rural,50 - 55  MPH
+With Traffic,No,Weekend,Intersection,Residential,Daylight,Urban (>70% Developed),Smooth Asphalt,Urban,30 - 35  MPH
+With Traffic,No,Weekday,Non-Intersection,Industrial,Daylight,Urban (>70% Developed),Smooth Asphalt,Urban,40 - 45  MPH
+With Traffic,No,Weekday,Non-Intersection,Commercial,Daylight,Mixed (30% To 70% Developed),Coarse Asphalt,Rural,50 - 55  MPH
+With Traffic,No,Weekend,Intersection,Residential,Daylight,Mixed (30% To 70% Developed),Smooth Asphalt,Rural,30 - 35  MPH
+With Traffic,No,Weekend,Non-Intersection,"Farms, Woods, Pastures",Daylight,Rural (<30% Developed),Smooth Asphalt,Rural,50 - 55  MPH
+With Traffic,No,Weekday,Intersection,Commercial,Daylight,Urban (>70% Developed),Smooth Asphalt,Urban,30 - 35  MPH
+Not Applicable,No,Weekday,Intersection,Commercial,Daylight,Urban (>70% Developed),Smooth Asphalt,Urban,5 - 15 MPH
+With Traffic,No,Weekday,Non-Intersection,"Farms, Woods, Pastures",Daylight,Rural (<30% Developed),Coarse Asphalt,Rural,50 - 55  MPH
+With Traffic,No,Weekday,Non-Intersection,"Farms, Woods, Pastures",Daylight,Rural (<30% Developed),Smooth Asphalt,Rural,40 - 45  MPH
+With Traffic,No,Weekday,Intersection,Residential,Dawn,Urban (>70% Developed),Smooth Asphalt,Urban,20 - 25  MPH
+With Traffic,Yes,Weekday,Non-Intersection,Residential,Dark - Roadway Not Lighted,Urban (>70% Developed),Smooth Asphalt,Urban,40 - 45  MPH
+With Traffic,No,Weekday,Non-Intersection,"Farms, Woods, Pastures",Dark - Roadway Not Lighted,Rural (<30% Developed),Smooth Asphalt,Rural,50 - 55  MPH
+With Traffic,Yes,Weekend,Intersection,Commercial,Dark - Lighted Roadway,Urban (>70% Developed),Smooth Asphalt,Urban,40 - 45  MPH
+With Traffic,Yes,Weekday,Intersection,Commercial,Dark - Lighted Roadway,Mixed (30% To 70% Developed),Coarse Asphalt,Rural,30 - 35  MPH
+With Traffic,No,Weekend,Intersection,Residential,Daylight,Urban (>70% Developed),Smooth Asphalt,Urban,30 - 35  MPH
+Facing Traffic,No,Weekday,Non-Intersection,"Farms, Woods, Pastures",Dark - Roadway Not Lighted,Rural (<30% Developed),Smooth Asphalt,Rural,40 - 45  MPH
+With Traffic,No,Weekday,Non-Intersection,"Farms, Woods, Pastures",Dusk,Rural (<30% Developed),Coarse Asphalt,Rural,50 - 55  MPH
+Facing Traffic,Yes,Weekday,Non-Intersection,"Farms, Woods, Pastures",Dark - Roadway Not Lighted,Rural (<30% Developed),Coarse Asphalt,Rural,50 - 55  MPH
+Not Applicable,No,Weekday,Intersection,Commercial,Dark - Roadway Not Lighted,Urban (>70% Developed),Coarse Asphalt,Rural,50 - 55  MPH
+Facing Traffic,No,Weekday,Non-Intersection,Commercial,Daylight,Urban (>70% Developed),Smooth Asphalt,Urban,Unknown
+With Traffic,No,Weekday,Non-Intersection,Residential,Dark - Lighted Roadway,Rural (<30% Developed),Smooth Asphalt,Rural,40 - 45  MPH
+Not Applicable,No,Weekday,Non-Intersection,Residential,Dusk,Mixed (30% To 70% Developed),Coarse Asphalt,Rural,40 - 45  MPH
+With Traffic,No,Weekend,Non-Intersection,"Farms, Woods, Pastures",Dark - Roadway Not Lighted,Rural (<30% Developed),Coarse Asphalt,Rural,50 - 55  MPH
+Not Applicable,No,Weekday,Non-Intersection,Commercial,Dusk,Urban (>70% Developed),Coarse Asphalt,Urban,Unknown
+With Traffic,Yes,Weekday,Intersection,Commercial,Dark - Roadway Not Lighted,Urban (>70% Developed),Smooth Asphalt,Urban,40 - 45  MPH
+With Traffic,No,Weekday,Non-Intersection,Commercial,Daylight,Urban (>70% Developed),Coarse Asphalt,Urban,30 - 35  MPH
+With Traffic,No,Weekend,Non-Intersection,"Farms, Woods, Pastures",Daylight,Rural (<30% Developed),Smooth Asphalt,Rural,30 - 35  MPH
+With Traffic,No,Weekday,Non-Intersection,Commercial,Dark - Roadway Not Lighted,Mixed (30% To 70% Developed),Smooth Asphalt,Rural,50 - 55  MPH
+With Traffic,No,Weekday,Non-Intersection,"Farms, Woods, Pastures",Dark - Roadway Not Lighted,Rural (<30% Developed),Coarse Asphalt,Rural,50 - 55  MPH
+With Traffic,No,Weekday,Intersection-Related,"Farms, Woods, Pastures",Daylight,Rural (<30% Developed),Smooth Asphalt,Rural,50 - 55  MPH
+With Traffic,No,Weekday,Non-Intersection,Residential,Dark - Roadway Not Lighted,Mixed (30% To 70% Developed),Smooth Asphalt,Rural,50 - 55  MPH
+With Traffic,No,Weekend,Non-Intersection,Commercial,Dark - Roadway Not Lighted,Mixed (30% To 70% Developed),Smooth Asphalt,Rural,40 - 45  MPH
+Facing Traffic,No,Weekday,Intersection,Institutional,Daylight,Urban (>70% Developed),Coarse Asphalt,Urban,30 - 35  MPH
+With Traffic,No,Weekday,Non-Intersection,"Farms, Woods, Pastures",Dark - Roadway Not Lighted,Rural (<30% Developed),Coarse Asphalt,Rural,50 - 55  MPH
+With Traffic,No,Weekend,Non-Intersection,Residential,Dark - Roadway Not Lighted,Rural (<30% Developed),Coarse Asphalt,Rural,40 - 45  MPH
+With Traffic,Yes,Weekend,Non-Intersection,"Farms, Woods, Pastures",Dark - Roadway Not Lighted,Rural (<30% Developed),Coarse Asphalt,Rural,50 - 55  MPH
+With Traffic,Yes,Weekday,Non-Intersection,Residential,Dark - Roadway Not Lighted,Rural (<30% Developed),Coarse Asphalt,Rural,40 - 45  MPH
+With Traffic,No,Weekday,Intersection,Residential,Daylight,Mixed (30% To 70% Developed),Smooth Asphalt,Rural,30 - 35  MPH
+With Traffic,No,Weekend,Non-Intersection,Commercial,Daylight,Urban (>70% Developed),Smooth Asphalt,Urban,30 - 35  MPH
+With Traffic,No,Weekend,Non-Intersection,Residential,Dark - Lighted Roadway,Urban (>70% Developed),Smooth Asphalt,Urban,30 - 35  MPH
+With Traffic,No,Weekday,Non-Intersection,"Farms, Woods, Pastures",Daylight,Rural (<30% Developed),Smooth Asphalt,Rural,50 - 55  MPH
+With Traffic,Yes,Weekend,Non-Intersection,Residential,Dark - Roadway Not Lighted,Rural (<30% Developed),Coarse Asphalt,Rural,40 - 45  MPH
+With Traffic,No,Weekday,Non-Intersection,"Farms, Woods, Pastures",Dark - Roadway Not Lighted,Rural (<30% Developed),Coarse Asphalt,Rural,50 - 55  MPH
+With Traffic,No,Weekday,Non-Intersection,"Farms, Woods, Pastures",Daylight,Rural (<30% Developed),Coarse Asphalt,Rural,50 - 55  MPH
+With Traffic,No,Weekday,Intersection,"Farms, Woods, Pastures",Daylight,Rural (<30% Developed),Coarse Asphalt,Rural,50 - 55  MPH
+Facing Traffic,Yes,Weekend,Non-Intersection,Commercial,Dark - Lighted Roadway,Urban (>70% Developed),Smooth Asphalt,Urban,40 - 45  MPH
+With Traffic,Yes,Weekday,Non-Intersection,"Farms, Woods, Pastures",Dark - Roadway Not Lighted,Rural (<30% Developed),Coarse Asphalt,Rural,50 - 55  MPH
+Not Applicable,No,Weekend,Non-Intersection,Residential,Dusk,Mixed (30% To 70% Developed),Coarse Asphalt,Rural,30 - 35  MPH
+With Traffic,No,Weekday,Intersection,"Farms, Woods, Pastures",Dark - Roadway Not Lighted,Rural (<30% Developed),Smooth Asphalt,Rural,50 - 55  MPH
+With Traffic,Yes,Weekday,Non-Intersection,Commercial,Dark - Roadway Not Lighted,Mixed (30% To 70% Developed),Smooth Asphalt,Urban,50 - 55  MPH
+With Traffic,No,Weekday,Intersection,Commercial,Dark - Roadway Not Lighted,Urban (>70% Developed),Coarse Asphalt,Urban,40 - 45  MPH
+With Traffic,Yes,Weekday,Non-Intersection,Commercial,Dark - Lighted Roadway,Urban (>70% Developed),Coarse Asphalt,Urban,40 - 45  MPH
+With Traffic,No,Weekday,Intersection,"Farms, Woods, Pastures",Dark - Roadway Not Lighted,Rural (<30% Developed),Coarse Asphalt,Rural,50 - 55  MPH
+With Traffic,Yes,Weekday,Non-Intersection,Commercial,Dark - Lighted Roadway,Urban (>70% Developed),Smooth Asphalt,Urban,50 - 55  MPH
+With Traffic,Yes,Weekday,Non-Intersection,"Farms, Woods, Pastures",Dark - Roadway Not Lighted,Urban (>70% Developed),Smooth Asphalt,Urban,40 - 45  MPH
+With Traffic,No,Weekday,Intersection,Residential,Dark - Roadway Not Lighted,Mixed (30% To 70% Developed),Smooth Asphalt,Urban,40 - 45  MPH
+With Traffic,Yes,Weekday,Intersection-Related,Residential,Dark - Roadway Not Lighted,Urban (>70% Developed),Smooth Asphalt,Rural,30 - 35  MPH
+With Traffic,Yes,Weekend,Intersection,Commercial,Daylight,Urban (>70% Developed),Smooth Asphalt,Urban,40 - 45  MPH
+With Traffic,No,Weekday,Non-Intersection,Commercial,Daylight,Rural (<30% Developed),Coarse Asphalt,Rural,50 - 55  MPH
+With Traffic,No,Weekday,Non-Intersection,"Farms, Woods, Pastures",Daylight,Rural (<30% Developed),Coarse Asphalt,Rural,50 - 55  MPH
+With Traffic,No,Weekend,Non-Intersection,"Farms, Woods, Pastures",Daylight,Rural (<30% Developed),Coarse Asphalt,Rural,50 - 55  MPH
+With Traffic,No,Weekday,Non-Intersection,"Farms, Woods, Pastures",Daylight,Rural (<30% Developed),Coarse Asphalt,Rural,50 - 55  MPH
+With Traffic,No,Weekday,Intersection,Commercial,Daylight,Urban (>70% Developed),Coarse Asphalt,Urban,20 - 25  MPH
+With Traffic,Yes,Weekday,Intersection,Commercial,Daylight,Urban (>70% Developed),Concrete,Urban,20 - 25  MPH
+With Traffic,Yes,Weekday,Non-Intersection,Commercial,Dark - Lighted Roadway,Mixed (30% To 70% Developed),Smooth Asphalt,Urban,30 - 35  MPH
+Facing Traffic,Yes,Weekend,Non-Intersection,Residential,Dark - Lighted Roadway,Urban (>70% Developed),Smooth Asphalt,Urban,30 - 35  MPH
+With Traffic,No,Weekend,Intersection,"Farms, Woods, Pastures",Daylight,Rural (<30% Developed),Smooth Asphalt,Rural,40 - 45  MPH
+With Traffic,No,Weekday,Intersection-Related,Commercial,Daylight,Urban (>70% Developed),Coarse Asphalt,Urban,30 - 35  MPH
+With Traffic,No,Weekday,Non-Intersection,"Farms, Woods, Pastures",Daylight,Urban (>70% Developed),Coarse Asphalt,Rural,60 - 75 MPH
+With Traffic,Yes,Weekday,Non-Intersection,Residential,Daylight,Mixed (30% To 70% Developed),Coarse Asphalt,Rural,40 - 45  MPH
+With Traffic,No,Weekday,Non-Intersection,Residential,Daylight,Mixed (30% To 70% Developed),Coarse Asphalt,Rural,50 - 55  MPH
+With Traffic,No,Weekday,Intersection,Residential,Dark - Roadway Not Lighted,Mixed (30% To 70% Developed),Smooth Asphalt,Urban,30 - 35  MPH
+With Traffic,No,Weekend,Non-Intersection,"Farms, Woods, Pastures",Daylight,Rural (<30% Developed),Coarse Asphalt,Rural,50 - 55  MPH
+With Traffic,No,Weekend,Intersection,"Farms, Woods, Pastures",Daylight,Rural (<30% Developed),Smooth Asphalt,Rural,50 - 55  MPH
+With Traffic,No,Weekday,Non-Intersection,"Farms, Woods, Pastures",Dusk,Rural (<30% Developed),Smooth Asphalt,Rural,50 - 55  MPH
+Facing Traffic,No,Weekday,Non-Intersection,Commercial,Daylight,Urban (>70% Developed),Coarse Asphalt,Urban,30 - 35  MPH
+With Traffic,No,Weekend,Intersection,Commercial,Dusk,Urban (>70% Developed),Smooth Asphalt,Urban,40 - 45  MPH
+With Traffic,No,Weekday,Non-Intersection,Residential,Dusk,Urban (>70% Developed),Smooth Asphalt,Urban,50 - 55  MPH
+With Traffic,No,Weekday,Non-Intersection,Residential,Dark - Roadway Not Lighted,Rural (<30% Developed),Coarse Asphalt,Rural,40 - 45  MPH
+With Traffic,No,Weekday,Non-Intersection,"Farms, Woods, Pastures",Daylight,Rural (<30% Developed),Coarse Asphalt,Rural,50 - 55  MPH
+With Traffic,No,Weekend,Intersection,Residential,Daylight,Urban (>70% Developed),Smooth Asphalt,Urban,30 - 35  MPH
+With Traffic,No,Weekend,Non-Intersection,"Farms, Woods, Pastures",Daylight,Rural (<30% Developed),Smooth Asphalt,Rural,50 - 55  MPH
+Not Applicable,No,Weekday,Non-Intersection,"Farms, Woods, Pastures",Daylight,Rural (<30% Developed),Coarse Asphalt,Rural,50 - 55  MPH
+With Traffic,No,Weekend,Non-Intersection,Residential,Dark - Roadway Not Lighted,Rural (<30% Developed),Smooth Asphalt,Rural,50 - 55  MPH
+With Traffic,Yes,Weekday,Non-Intersection,"Farms, Woods, Pastures",Dark - Roadway Not Lighted,Rural (<30% Developed),Smooth Asphalt,Rural,50 - 55  MPH
+With Traffic,No,Weekend,Non-Intersection,"Farms, Woods, Pastures",Dark - Roadway Not Lighted,Mixed (30% To 70% Developed),Smooth Asphalt,Rural,40 - 45  MPH
+With Traffic,No,Weekday,Intersection,Commercial,Dark - Roadway Not Lighted,Mixed (30% To 70% Developed),Smooth Asphalt,Rural,50 - 55  MPH
+With Traffic,Yes,Weekday,Intersection,Residential,Dark - Lighted Roadway,Urban (>70% Developed),Coarse Asphalt,Urban,20 - 25  MPH
+With Traffic,No,Weekday,Non-Intersection,Commercial,Dark - Lighted Roadway,Urban (>70% Developed),Smooth Asphalt,Urban,30 - 35  MPH
+With Traffic,No,Weekday,Non-Intersection,Commercial,Daylight,Urban (>70% Developed),Smooth Asphalt,Rural,40 - 45  MPH
+With Traffic,No,Weekday,Non-Intersection,"Farms, Woods, Pastures",Dark - Roadway Not Lighted,Rural (<30% Developed),Smooth Asphalt,Rural,40 - 45  MPH
+With Traffic,No,Weekend,Non-Intersection,Commercial,Daylight,Urban (>70% Developed),Smooth Asphalt,Rural,50 - 55  MPH
+With Traffic,Yes,Weekday,Non-Intersection,"Farms, Woods, Pastures",Dark - Roadway Not Lighted,Rural (<30% Developed),Coarse Asphalt,Rural,40 - 45  MPH
+Facing Traffic,No,Weekend,Non-Intersection,Residential,Dark - Lighted Roadway,Urban (>70% Developed),Coarse Asphalt,Urban,30 - 35  MPH
+Facing Traffic,No,Weekday,Non-Intersection,Residential,Daylight,Urban (>70% Developed),Smooth Asphalt,Urban,30 - 35  MPH
+Facing Traffic,No,Weekday,Non-Intersection,Commercial,Daylight,Mixed (30% To 70% Developed),Smooth Asphalt,Urban,20 - 25  MPH
+With Traffic,No,Weekday,Non-Intersection,"Farms, Woods, Pastures",Dark - Roadway Not Lighted,Rural (<30% Developed),Smooth Asphalt,Rural,50 - 55  MPH
+With Traffic,Yes,Weekday,Non-Intersection,"Farms, Woods, Pastures",Daylight,Rural (<30% Developed),Coarse Asphalt,Rural,50 - 55  MPH
+With Traffic,No,Weekday,Non-Intersection,Residential,Daylight,Rural (<30% Developed),Coarse Asphalt,Rural,50 - 55  MPH
+With Traffic,No,Weekend,Intersection,Commercial,Dark - Roadway Not Lighted,Urban (>70% Developed),Coarse Asphalt,Rural,40 - 45  MPH
+With Traffic,No,Weekday,Non-Intersection,"Farms, Woods, Pastures",Dark - Roadway Not Lighted,Rural (<30% Developed),Coarse Asphalt,Rural,40 - 45  MPH
+With Traffic,No,Weekday,Non-Intersection,Residential,Daylight,Rural (<30% Developed),Smooth Asphalt,Rural,40 - 45  MPH
+With Traffic,Yes,Weekday,Non-Intersection,Commercial,Dusk,Mixed (30% To 70% Developed),Smooth Asphalt,Urban,40 - 45  MPH
+Not Applicable,No,Weekday,Non-Intersection,Commercial,Daylight,Urban (>70% Developed),Coarse Asphalt,Urban,30 - 35  MPH
+Facing Traffic,No,Weekday,Intersection-Related,Residential,Dark - Lighted Roadway,Urban (>70% Developed),Smooth Asphalt,Urban,30 - 35  MPH
+With Traffic,No,Weekday,Non-Intersection,"Farms, Woods, Pastures",Daylight,Rural (<30% Developed),Smooth Asphalt,Rural,50 - 55  MPH
+With Traffic,No,Weekend,Non-Intersection,Residential,Dark - Roadway Not Lighted,Mixed (30% To 70% Developed),Smooth Asphalt,Rural,40 - 45  MPH
+With Traffic,No,Weekday,Non-Intersection,"Farms, Woods, Pastures",Dark - Roadway Not Lighted,Rural (<30% Developed),Smooth Asphalt,Rural,50 - 55  MPH
+With Traffic,No,Weekday,Non-Intersection,Commercial,Dark - Lighted Roadway,Urban (>70% Developed),Smooth Asphalt,Urban,30 - 35  MPH
+With Traffic,No,Weekday,Non-Intersection,Commercial,Dark - Lighted Roadway,Urban (>70% Developed),Coarse Asphalt,Urban,50 - 55  MPH
