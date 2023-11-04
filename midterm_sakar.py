@@ -14,17 +14,17 @@ if option == "Background and Data":
     st.header('Introduction')
     st.write('Pedestrians and bicyclists are among the vulnerable road users (along with motorized two-wheelers) who are more likely to get into fatal crashes as compared to car drivers. They are referred to as such because they do not have enough protection through an outside shield, and risk sustaining a greater injury in any collision with a vehicle. This project aims to look at few of the factors that have impacts in causing fatal ped-bike crashes. The webapp will help in visualizing the roadway contexts, demographics as well as the effects of various other factors that may have been observed in fatal ped-bike crashes, which may eventually assist in knowing the trends of the causes of ped-bike crashes, and eventually leading steps to avoid roadway mishaps. State agencies and Departments of Transportation (DOTs) can benefit from these type of evaluations in order to minimize fatal crashes and eventually move towards zero deaths caused due to traffic crashes.')
     #********************************************************************************************************
-    st.subheader('Variables in the Dataset')
-    st.write('All the variables in this dataset are categorical, and are listed below:')
-    st.write(' - BikeDir: Direction of travel of bicyclists as compared to direction of travel of traffic.')
-    st.write(' - CrashAlcoh: Were the vehicle drivers intoxicated from alcohol during the time of crash?')
-    st.write(' - WeekdayOrWeekend: Day of occurrence of the crash in terms of weekend or weekday.')
-    st.write(' - CrashLoc: Location of Crash (whether or not the crash occurred in the intersection).')
-    st.write(' - Developmen: Type of development of the area of crash.')
-    st.write(' - LightCond: Light Condition at the location of crash.')
+    st.subheader('Dataset')
+    st.write('BikePedCrash Data, an open-access public dataset was used in order to work with the graphics that may be related with this project. This dataset contains the information regarding every police-reported ped-bike crashes from the year 2007 to 2019 in the state of North Carolina. All the variables in this dataset are categorical, and are listed below:')
+    st.write(' - Bike_Direction: Direction of travel of bicyclists as compared to direction of travel of traffic.')
+    st.write(' - Crash_Alcohol_Involved: Were the vehicle drivers intoxicated from alcohol during the time of crash?')
+    st.write(' - Weekday_Or_Weekend: Day of occurrence of the crash in terms of weekend or weekday.')
+    st.write(' - Crash_Location: Location of Crash (whether or not the crash occurred in the intersection).')
+    st.write(' - Development: Type of development of the area of crash.')
+    st.write(' - Light_Conditions: Light Condition at the location of crash.')
     st.write(' - Locality: Locality of crash in terms of Urban, Mixed or Rural locality.')
-    st.write(' - RdSurface: Road Surface Conditions.')
-    st.write(' - RuralUrban: Road Context in terms of rural or urban roads.')
+    st.write(' - Road_Surface: Road Surface Conditions.')
+    st.write(' - Rural_Or_Urban: Road Context in terms of rural or urban roads.')
     st.write(' - SpeedLimit: Speed Limit at the location of crash.')
     #********************************************************************************************************
     st.markdown("### Do you want to see the raw dataset?")
@@ -36,7 +36,7 @@ if option == "Data Visualization":
     st.markdown("# Fatal Pedestrian-Bicyclist (Ped-Bike) Crash Trends")
     st.header("Evaluation of Trends")    
     #********************************************************************************************************
-    selected_var = st.radio("Here, we will be looking at the frequency distributions for the variables in the dataset, and come up with some potential trends that may come up. To do so, select a variable from the following:", ["CrashAlcoh", "WeekdayOrWeekend", "Locality", "LightCond", "RdSurface","Developmen", "SpeedLimit", "RuralUrban", "CrashLoc", "BikeDir"])
+    selected_var = st.radio("Here, we will be looking at the frequency distributions for the variables in the dataset, and come up with some potential trends that may come up. To do so, select a variable from the following:", ["Crash_Alcohol_Involved", "Weekday_Or_Weekend", "Locality", "Light_Conditions", "Road_Surface","Development", "SpeedLimit", "Rural_Or_Urban", "Crash_Location", "Bike_Direction"])
     filtered_data = data[selected_var]
     sns.set_style("whitegrid")
     fig, ax = plt.subplots(figsize=(16, 6))
@@ -49,9 +49,9 @@ if option == "Data Visualization":
     st.write('From the histograms, from a traffic safety perspective, we can observe some clear trends for some variables. We can see a clear discrepancy on presence of a variable that may contribute to fatal ped-bike crashes. The variables "RuralUrban", "CrashLoc", and especially "BikeDir" show some trends that may factor for fatal ped-bike crashes. We now look in to the interactive plots between these three particular variables.')
     #********************************************************************************************************
     st.subheader("Interactive Plot")
-    st.write('The following nested pie chart demonstrates a the amount of instances during which we observe the fatal ped-bike crashes for the variables "RuralUrban", "CrashLoc" and "BikeDir".')
+    st.write('The following nested pie chart demonstrates a the amount of instances during which we observe the fatal ped-bike crashes for the variables "Rural_Or_Urban", "Crash_Location" and "Bike_Direction".')
     #********************************************************************************************************
-    fig = px.sunburst(data, path=['BikeDir', 'RuralUrban', 'CrashLoc'], title='Nested Pie Chart Demonstrating the Preliminary Data')
+    fig = px.sunburst(data, path=['Bike_Direction', 'Rural_Or_Urban', 'Crash_Location'], title='Nested Pie Chart Demonstrating the Preliminary Data')
     st.plotly_chart(fig)
 #********************************************************************************************************
 if option == "Conclusion and Recommendations":

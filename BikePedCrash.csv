@@ -1,4 +1,4 @@
-﻿BikeDir,CrashAlcoh,WeekdayOrWeekend,CrashLoc,Developmen,LightCond,Locality,RdSurface,RuralUrban,SpeedLimit
+﻿Bike_Direction,Crash_Alcohol_Involved,Weekday_Or_Weekend,Crash_Location,Development,Light_Conditions,Locality,Road_Surface,Rural_Or_Urban,SpeedLimit
 With Traffic,Yes,Weekday,Non-Intersection,Residential,Daylight,Urban (>70% Developed),Smooth Asphalt,Urban,40 - 45  MPH
 With Traffic,No,Weekday,Non-Intersection,"Farms, Woods, Pastures",Daylight,Rural (<30% Developed),Smooth Asphalt,Rural,60 - 75 MPH
 With Traffic,No,Weekend,Non-Intersection,"Farms, Woods, Pastures",Daylight,Rural (<30% Developed),Smooth Asphalt,Rural,50 - 55  MPH
