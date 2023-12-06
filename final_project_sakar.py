@@ -1,8 +1,7 @@
 #My link to the project is: 
 #MY link to my GitHub repository is: 
-
-import altair as alt
 import streamlit as st
+import altair as alt
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
@@ -96,7 +95,7 @@ if menu == "About the Data":
 if menu == "Analysis Methodology":
     st.title('Logistic Regression')
     st.markdown('A logistic regression analysis was conducted, where a predictive model was developed to assess the success rate of field goal attempts by NFL kickers. The model utilized key features such as goal-to-go situations, kick distance, timeouts remaining, home game indicator, time remaining in the half, down, score differential, and yards to go for a first down. The logistic regression, trained on a subset of the dataset, aimed to predict whether a kicker would successfully score a field goal or not. The model coefficients were examined to understand the impact of each feature on the likelihood of a successful field goal attempt for the selected kicker.')
-    st.markdown('For the purpose of this study, a minimum threshold of 50 field goal attempts was established to comprehensively assess the influence of in-game variables on the likelihood of a kicker successfully scoring a field goal. Each kicker underwent logistic regression modeling, wherein the resulting coefficients elucidate the impact of various game-related factors on the probability of the kicker making a successful field goal. The analysis aimed to unveil the nuanced relationships between key game dynamics and kicker performance, providing valuable insights into the factors shaping the outcomes of field goal attempts in critical two-minute scenarios.')
+    st.markdown('For the purpose of this app, a minimum threshold of 50 field goal attempts was established to comprehensively assess the influence of in-game variables on the likelihood of a kicker successfully scoring a field goal. Each kicker underwent logistic regression modeling, wherein the resulting coefficients elucidate the impact of various game-related factors on the probability of the kicker making a successful field goal. The analysis aimed to unveil the nuanced relationships between key game dynamics and kicker performance, providing valuable insights into the factors shaping the outcomes of field goal attempts in critical two-minute scenarios.')
     st.subheader("Logistic Regression Model for Field Goal Success Prediction")
     selected_kicker = st.radio('Select a Kicker', qualified_kickers)
     df_kicker = fg_data[fg_data['kicker'] == selected_kicker]
