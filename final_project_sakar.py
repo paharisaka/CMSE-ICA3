@@ -11,7 +11,7 @@ from sklearn.metrics import accuracy_score, precision_score, recall_score
 st.set_option('deprecation.showPyplotGlobalUse', False)
 #********************************************************************************************************
 st.set_page_config(page_title="Kicker Impact Analysis", layout="wide")
-fg_data = pd.read_excel('nfl_data.xlsx', sheet_name='Last_2_mins', engine='openpyxl')
+fg_data = pd.read_excel('nfl_data.xlsx', sheet_name='Last_2_mins')
 fg_data = fg_data.dropna()
 min_attempts = 50
 kicker_counts = fg_data['kicker'].value_counts()
@@ -119,7 +119,7 @@ if menu == "Analysis Methodology":
     cm = pd.crosstab(y_test, y_pred, rownames=['Actual'], colnames=['Predicted'], margins=True)
     st.write(f"### Confusion Matrix for {selected_kicker}:")
     st.table(cm)
-    fig, ax = plt.subplots(figsize=(8, 6))
+    fig, ax = plt.subplots(figsize=(2,2))
     sns.heatmap(cm, annot=True, fmt="d", cmap="Blues", ax=ax)
     ax.set_title(f'Confusion Matrix for {selected_kicker}')
     st.pyplot(fig)
