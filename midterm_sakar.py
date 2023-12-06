@@ -1,8 +1,13 @@
-import streamlit as st
+#My link to the project is: https://cmse-ica3-bdsh8izmrmulx7mn8rv3t3.streamlit.app/
+#MY link to my GitHub repository is: https://github.com/paharisaka/CMSE-ICA3
+
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
-import plotly.express as px
+from sklearn.model_selection import train_test_split
+from sklearn.linear_model import LogisticRegression
+from sklearn.metrics import accuracy_score, precision_score, recall_score
+import streamlit as st
 st.set_option('deprecation.showPyplotGlobalUse', False)
 #********************************************************************************************************
 st.sidebar.title("Content")
