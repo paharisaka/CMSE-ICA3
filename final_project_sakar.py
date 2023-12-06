@@ -1,6 +1,6 @@
 #My link to the project is: 
 #MY link to my GitHub repository is: 
-st.set_option('deprecation.showPyplotGlobalUse', False)
+
 import altair as alt
 import streamlit as st
 import pandas as pd
@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score, precision_score, recall_score
-
+st.set_option('deprecation.showPyplotGlobalUse', False)
 #********************************************************************************************************
 st.set_page_config(page_title="Kicker Impact Analysis", layout="wide")
 fg_data = pd.read_excel('nfl_data.xlsx', sheet_name = 'Last_2_mins')
