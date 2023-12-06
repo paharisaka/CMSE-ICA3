@@ -1,6 +1,6 @@
 #My link to the project is: 
 #MY link to my GitHub repository is: 
-
+st.set_option('deprecation.showPyplotGlobalUse', False)
 import altair as alt
 import streamlit as st
 import pandas as pd
