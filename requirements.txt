@@ -2,9 +2,9 @@ scikit-learn
 seaborn
 pandas
 altair
-plotly
-streamlit
-matplotlib.pyplot
+plotly.express
 hiplot
+plotly
+matplotlib
 statsmodels
 statistics
